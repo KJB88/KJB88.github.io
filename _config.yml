@@ -31,7 +31,7 @@ github_username:  KJB88
 
 # Build settings
 markdown: kramdown
-remote_theme: midnight
+remote_theme: pages-themes/midnight
 plugins:
   - jekyll-feed
 
