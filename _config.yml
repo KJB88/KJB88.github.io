@@ -30,6 +30,7 @@ twitter_username: N/A
 github_username:  KJB88
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
