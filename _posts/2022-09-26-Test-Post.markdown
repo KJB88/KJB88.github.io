@@ -1,6 +1,8 @@
+---
 layout: post
 title: "TEST POST"
-date: 2022-09-26 13:56:00 -0000
-categories: CATEGORY-1 CATEGORY-2
+date: 2022-09-26 13:56:00 +0100
+categories: test-1 test-2
+---
 
 This is a test post!
