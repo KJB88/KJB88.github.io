@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Unity C# Developer
+subtitle: Lead/Senior Unity C# Developer
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
