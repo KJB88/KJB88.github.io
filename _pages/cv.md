@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV/Resumé
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: https://drive.google.com/file/d/17YR6YNKbnmi_0BUgR6fUE-483xaTdUFm
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: kjb_cv_publicFacing.pdf
+description: My Curriculum Vitae - displaying my skills, work history and academic background. To access a downloadable version, please click the PDF button at the top right of the page.
 toc:
   sidebar: left
 ---
