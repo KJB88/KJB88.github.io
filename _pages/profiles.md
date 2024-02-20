@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Personal
+description: A Brief History of Kev (A lot less enlightening than a similarly named book by a genius. Well, unless you like cats.)
 nav: true
 nav_order: 7
 

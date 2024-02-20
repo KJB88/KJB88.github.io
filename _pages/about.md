@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Lead/Senior Unity C# Developer
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
