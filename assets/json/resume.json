@@ -5,7 +5,7 @@
     "image": "",
     "email": "kevinbarr.business@gmail.com",
     "url": "https://kjb88.github.io/",
-    "summary": "~10 years experience in Games and Simulation development. Technical Leadership with a compassionate human-first approach. Advocate for: Mental Health Awareness & Disability Rights in the Workplace.",
+    "summary": "~10 years experience in Games and Simulation development. \n Technical Leadership with a compassionate human-first approach. \n Advocate for: Mental Health Awareness & Disability Rights in the Workplace.",
     "location": {
       "city": "Hull",
       "countryCode": "UK",
@@ -19,68 +19,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "Digital Fashion Framework Ltd",
-      "position": "Senior C# Engineer",
-      "url": "https://gn3ra.io",
-      "startDate": "2023-02-01",
-      "endDate": "2024-01-17",
-      "summary": "Technical development on a Fashion Game within a start-up environment. Worked closely with CTO to define high-level design decisions to meet business requirements. Mentorship and support of junior and mid-level developers.",
-      "highlights": ["Solo developed iOS Mobile prototype", "Direct business impact through inclusion in high-level business meetings"]
-    },
-    {
-      "name": "Siemens Gamesa Renewable Energy",
-      "position": "Senior Digitalisation Specialist (Technical Development Lead & Unity C# Engineer)",
-      "url": "https://www.siemensgamesa.com/en-int",
-      "startDate": "2020-06-01",
-      "endDate": "2023-02-01",
-      "summary": "Simulation development for a multi-national manufacturing company. Utitlised Games Technology to bring vision to life. Hired for, built and led a team to meet project demands. Developed workflow and tech-stack for team. Built pipeline to facilitate co-operation between other departments. Pitched and designed product from scratch, developed and delivered by leading my team.",
-      "highlights": ["Technical Leadership: Hired for, built and led a team of developers.", "Without a team, pitched and designed the product at a high-level and how it would impact the business.", "Worked directly on project through full lifecycle of product."]
-    },
-    {
-      "name": "The Logistics Institute",
-      "position": "Unity C# Developer",
-      "url": "https://www.hull.ac.uk/",
-      "startDate": "2017-08-01",
-      "endDate": "2020-05-01",
-      "summary": "Worked in a fast-paced prototyping environment developing prototypes as showcase pieces for clients to demonstrate the capabilities of The Logistics Institute to meet the client's demands. This included a wealth of differing technologies: VR projects, AR projects, XR projects.",
-      "highlights": ["Developed functional prototypes within tight deadlines", "Liaised with client's directly and analysed their requirements", "Worked on a wide range of technologies: VR/AR/XR", "Developed the precursor simulation that I was hired for in my next role."]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hull",
-      "location": "Hull, UK.",
-      "url": "https://www.hull.ac.uk/",
-      "area": "Computer Science for Games Development",
-      "studyType": "MSc",
-      "startDate": "2017-09-01",
-      "endDate": "2018-05-01",
-      "score": "N/A - Withdrew to pursue employment opportunity",
-      "courses": ["Simulation & AI (Physically-based Simulation & Game AI)", "Real-time Graphics (DirectX11, HLSL)", "Advanced Rendering (Raytracing)", "Virtual Environments (XR), Games Architecture & Concurrency (C++ Threading, Networking, ECS game engine)"]
-    },
-    {
-      "institution": "University of Hull",
-      "location": "Hull, UK.",
-      "url": "https://www.hull.ac.uk/",
-      "area": "Computer Science with Games Development",
-      "studyType": "BSc",
-      "startDate": "2013-09-01",
-      "endDate": "2017-06-01",
-      "score": "First Class",
-      "courses": ["Systems Architecture (C#)", "Games Development (C# & C++)", "Advanced Programming & Algorithms (C++)", "Front-End Development (JavaScript & Canvas)", "Concurrency & Networking (C#)"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Hull Employability Awards: Entrepreneurial Award",
-      "date": "2017-06-01",
-      "awarder": "University of Hull",
-      "url": "https://www.hull.ac.uk/",
-      "summary": "An award for outstanding entrepreneurial spirit, business understanding and application of domain knowledge in pursuit of success."
-    }
-  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -119,6 +57,66 @@
         "Git (via Github, Gitlab, TFS)",
         "SVN (Tortoise)"
       ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Digital Fashion Framework Ltd",
+      "position": "Senior C# Engineer",
+      "url": "https://gn3ra.io",
+      "startDate": "2023-02-01",
+      "endDate": "2024-01-17",
+      "summary": "Technical development on a Fashion Game within a start-up environment. Worked closely with CTO to define high-level design decisions to meet business requirements. Mentorship and support of junior and mid-level developers.",
+      "highlights": ["Solo developed iOS Mobile prototype", "Direct business impact through inclusion in high-level business meetings"]
+    },
+    {
+      "name": "Siemens Gamesa Renewable Energy",
+      "position": "Senior Digitalisation Specialist (Technical Development Lead & Unity C# Engineer)",
+      "url": "https://www.siemensgamesa.com/en-int",
+      "startDate": "2020-06-01",
+      "endDate": "2023-02-01",
+      "summary": "Simulation development for a multi-national manufacturing company. Utitlised Games Technology to bring vision to life. Hired for, built and led a team to meet project demands. Developed workflow and tech-stack for team. Built pipeline to facilitate co-operation between other departments. Pitched and designed product from scratch, developed and delivered by leading my team.",
+      "highlights": ["Technical Leadership: Hired for, built and led a team of developers.", "Without a team, pitched and designed the product at a high-level and how it would impact the business.", "Worked directly on project through full lifecycle of product."]
+    },
+    {
+      "name": "The Logistics Institute",
+      "position": "Unity C# Developer",
+      "url": "https://www.hull.ac.uk/",
+      "startDate": "2017-08-01",
+      "endDate": "2020-05-01",
+      "summary": "Worked in a fast-paced prototyping environment developing prototypes as showcase pieces for clients to demonstrate the capabilities of The Logistics Institute to meet the client's demands. This included a wealth of differing technologies: VR projects, AR projects, XR projects.",
+      "highlights": ["Developed functional prototypes within tight deadlines", "Liaised with client's directly and analysed their requirements", "Worked on a wide range of technologies: VR/AR/XR", "Developed the precursor simulation that I was hired for in my next role."]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hull",
+      "location": "Hull, UK.",
+      "url": "https://www.hull.ac.uk/",
+      "area": "Result: Expected First Class - Withdrew to pursue employment opportunity",
+      "studyType": "MSc Computer Science for Games Development",
+      "startDate": "2017-09-01",
+      "endDate": "2018-05-01",
+      "courses": ["Simulation & AI (Physically-based Simulation & Game AI)", "Real-time Graphics (DirectX11, HLSL)", "Advanced Rendering (Raytracing)", "Virtual Environments (XR), Games Architecture & Concurrency (C++ Threading, Networking, ECS game engine)"]
+    },
+    {
+      "institution": "University of Hull",
+      "location": "Hull, UK.",
+      "url": "https://www.hull.ac.uk/",
+      "area": "Result: First Class",
+      "studyType": "BSc Computer Science with Games Development",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-01",
+      "courses": ["Systems Architecture (C#)", "Games Development (C# & C++)", "Advanced Programming & Algorithms (C++)", "Front-End Development (JavaScript & Canvas)", "Concurrency & Networking (C#)"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hull Employability Awards: Entrepreneurial Award",
+      "date": "2017-06-01",
+      "awarder": "University of Hull",
+      "url": "https://www.hull.ac.uk/",
+      "summary": "An award for outstanding entrepreneurial spirit, business understanding and application of domain knowledge in pursuit of success."
     }
   ],
   "languages": [
