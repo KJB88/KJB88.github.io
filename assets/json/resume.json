@@ -119,8 +119,7 @@
         "Git (via Github, Gitlab, TFS)",
         "SVN (Tortoise)"
       ]
-    },
-
+    }
   ],
   "languages": [
     {
@@ -132,11 +131,11 @@
   "interests": [
     {
       "name": "Creative Writing",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Hobbyist Programming",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Advocacy and Awareness",
@@ -147,5 +146,5 @@
         "Human-first and Compassionate Leadership"
       ]
     }
-  ],
+  ]
 }
