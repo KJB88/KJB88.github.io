@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: Lead/Senior Unity C# Developer
+nav_order: 1
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
