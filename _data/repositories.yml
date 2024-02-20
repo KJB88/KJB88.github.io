@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kjb88
 
 github_repos:
   - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - kjb88/kbgdlib_unity
+  - kjb88/kjb88.github.io
