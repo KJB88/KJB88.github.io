@@ -123,22 +123,33 @@
     {
       "language": "English",
       "fluency": "Native",
-      "icon": "assets\lang_icons\eng_icon.jpg"
+      "icon": "assets\img\lang_icons\eng_icon.jpg"
     },
     {
       "language": "German",
       "fluency": "Beginner",
-      "icon": "assets\lang_icons\de_icon.jpg"
+      "icon": "de_icon.jpg"
     }
   ],
   "interests": [
     {
       "name": "Creative Writing",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Absurdism",
+        "Science Fiction",
+        "High Fantasy",
+        "Modern Era Parody"
+      ]
     },
     {
       "name": "Hobbyist Programming",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "KBGD Library - a collection of useful games development classes",
+        "KJB88.github.io - this is where you are now!",
+        "GameDev /w Unity & Godot"
+      ]
     },
     {
       "name": "Advocacy and Awareness",
