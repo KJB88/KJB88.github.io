@@ -123,7 +123,12 @@
     {
       "language": "English",
       "fluency": "Native",
-      "icon": ""
+      "icon": "assets\lang_icons\eng_icon.jpg"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner",
+      "icon": "assets\lang_icons\de_icon.jpg"
     }
   ],
   "interests": [
