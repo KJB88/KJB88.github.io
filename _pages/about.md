@@ -27,7 +27,7 @@ I'm a ~10 year veteran of Unity Development. Straight out of my undergrad, I hit
 multi-national manufacturer to design and develop their next generation digital software and to handle hiring the talent to get the job done. Within 3 years of graduation, I was the technical lead of an innovative simulation project, with a cherry-picked team, workflow
 and tech-stack, all achieved by my own hands. My team and I successfully delivered ongoing major releases of the project, based on my initial pitch and designs; adjusted and scoped for the business's evolving requirements. I always strive to excel within my role as a developer and as leader. I love and seek out technical challenges and always overcome hurdles to become a better leader.
 
-PROFESSIONAL VALUES:
+PROFESSIONAL VALUES
 
 With my 10 years of experience, I am confident and assertive about my beliefs within my profession. I bring Mental Health Awareness and Wellbeing to the forefront of company considerations. I drive passionately for reform in business for Disability Rights in the Workplace. And I try to empower others to be compassionate, kind and open leaders and to always remind others that everyone is a human-first, employee-second. My approaches and outspoken nature provide a platform to empower my team(s) to do their best work, fully supported and cared for as professionals and as humans.
 
