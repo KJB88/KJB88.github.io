@@ -15,7 +15,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: left
-    image: cats/luna.jpg
+    image: luna.jpg
     content: about_einstein.md
     image_circular: true # crops the image to make it circular
 
