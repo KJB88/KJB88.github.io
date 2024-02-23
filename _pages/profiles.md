@@ -2,7 +2,8 @@
 layout: profiles
 permalink: /people/
 title: Personal Bio
-description: Here you'll find 'A Brief History of Kev'. It's a lot less enlightening than a similarly named book by a genius. Well, unless you like cats as much I do.
+description: Here you'll find 'A Brief History of Kev'.
+It's a lot less enlightening than a similarly named book by a genius. Well, unless you like cats as much I do.
 nav: true
 nav_order: 2
 
@@ -15,17 +16,17 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: left
-    image: luna.jpg
+    image: cats/luna.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: arthas_loki_playing.jpg
+    image: cats/arthas_loki_playing.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
 
   - align: left
-    image: loki.jpg
+    image: cats/loki.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
 ---
