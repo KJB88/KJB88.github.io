@@ -21,15 +21,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<strong>SKILLS</strong>
-Languages: C# (10yr), C++(4yr)
-Software: Unity, Visual Studio 20xx/Code, Rider
-Platforms: Desktop PC/Mac, Android/iOS (AR), Oculus (VR), HoloLens (XR/MR)
-Cloud: Firebase, Unity (IAP, Analytics)
-
-Soft: Technical Leadership , AGILE Workflow impl / Content Pipeline impl, Technical Hiring, Mentoring, Client Relations
-Git / SVN: Github, Gitlab, Bitbucket, SourceTree, Tortoise
-Proj Mgmt: JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)
+<strong>SKILLS</strong> <br>
+Languages: C# (10yr), C++(4yr) <br>
+Software: Unity, Visual Studio 20xx/Code, Rider <br>
+Platforms: Desktop PC/Mac, Android/iOS (AR), Oculus (VR), HoloLens (XR/MR) <br>
+Cloud: Firebase, Unity (IAP, Analytics) <br>
+<br>
+Soft: Technical Leadership , AGILE Workflow impl / Content Pipeline impl, Technical Hiring, Mentoring, Client Relations <br>
+Git / SVN: Github, Gitlab, Bitbucket, SourceTree, Tortoise <br>
+Proj Mgmt: JIRA (6yr), DevOps/TFS (4yr), Trello (10yr) <br>
 Other: Miro, Confluence, Blender, CAD (Inventor, PiXYZ)
 
 <strong>PROFESSIONAL BIO</strong>
