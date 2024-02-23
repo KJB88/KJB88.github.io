@@ -24,7 +24,7 @@ A Technical Leader and Unity Developer with a decade of experience, primarily in
 <br><br>
 <strong>SKILLS</strong><br>
 <b>Languages:</b> C# (10yr), C++(4yr), GDScript(6m)<br>
-Engine/Framework:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
+<b>Engine/Framework:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
 <b>IDE:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop<br>
 <b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
 <b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
