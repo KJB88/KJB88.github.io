@@ -5,7 +5,7 @@ permalink: /
 subtitle: Lead / Senior Unity C# Developer
 nav_order: 1
 #Mental Health Advocate | Compassionate Leader
-#<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
