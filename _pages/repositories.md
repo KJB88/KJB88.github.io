@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repos
-description: A fast way to access my individual, public repositories.
+description: It's where I keep my code and stuff. Well, just code actually. Feel free to check my repos out!
 nav: true
 nav_order: 4
 ---

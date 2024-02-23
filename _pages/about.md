@@ -8,7 +8,7 @@ nav_order: 1
 
 profile:
   align: right
-  image: me/prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Based in Hull,</p>
