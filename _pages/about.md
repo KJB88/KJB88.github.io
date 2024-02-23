@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 <strong>SKILLS</strong><br>
 <b>Languages:</b> C# (10yr), C++(4yr), GDScript(6m)<br>
-<b>Engines/Frameworks:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
+<b>Dev:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
 <b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop<br>
 <b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
 <b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
