@@ -21,7 +21,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<font size="4"><strong>SKILLS</strong></font><br>
+A Technical Leader and Unity Developer with a decade of experience, primarily in Simulation and Games.<br>
+
+<strong>SKILLS</strong><br>
 Languages: <C# (10yr), C++(4yr)<br>
 Software: Unity, Visual Studio 20xx/Code, Rider<br>
 Platforms: PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
