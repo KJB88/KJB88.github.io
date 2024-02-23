@@ -439,7 +439,7 @@ footer.fixed-bottom {
   font-size: 0.75rem;
 
   .container {
-    color: #404040;//var(--global-footer-text-color);
+    color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
     text-align: center;
