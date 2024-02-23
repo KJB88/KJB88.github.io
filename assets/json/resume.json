@@ -24,25 +24,25 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["C#","C++"]
+      "keywords": ["C#", "C++"]
     },
     {
       "name": "Games Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Unity Engine","Godot Engine","C++ ECS custom engine"]
+      "keywords": ["Unity Engine", "Godot Engine", "C++ ECS custom engine"]
     },
     {
       "name": "Project Management (using Scrum or Kanban)",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Azure DevOps / TFS","JIRA (supported with Confluence)","Trello"]
+      "keywords": ["Azure DevOps / TFS", "JIRA (supported with Confluence)", "Trello"]
     },
     {
       "name": "Version Control",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Git (Github, Gitlab, Bitbucket, DevOps/TFS)","SVN (Tortoise)"]
+      "keywords": ["Git (Github, Gitlab, Bitbucket, DevOps/TFS)", "SVN (Tortoise)"]
     }
   ],
   "work": [
@@ -64,8 +64,8 @@
       "summary": "Simulation development for a multi-national manufacturing company. Utitlised Games Technology to bring vision to life. Hired for, built and led a team to meet project demands. Developed workflow and tech-stack for team. Built pipeline to facilitate co-operation between other departments. Pitched and designed product from scratch, developed and delivered by leading my team.",
       "highlights": [
         "Technical Leadership: Hired for, built and led a team of developers.",
-         "Without a team, pitched and designed the product at a high-level and how it would impact the business.",
-          "Worked directly on project through full lifecycle of product."
+        "Without a team, pitched and designed the product at a high-level and how it would impact the business.",
+        "Worked directly on project through full lifecycle of product."
         ]
     },
     {
@@ -77,9 +77,9 @@
       "summary": "Worked in a fast-paced prototyping environment developing prototypes as showcase pieces for clients to demonstrate the capabilities of The Logistics Institute to meet the client's demands. This included a wealth of differing technologies: VR projects, AR projects, XR projects.",
       "highlights": [
         "Developed functional prototypes within tight deadlines",
-         "Liaised with client's directly and analysed their requirements",
-          "Worked on a wide range of technologies: VR/AR/XR",
-           "Developed the precursor simulation that I was hired for in my next role."
+        "Liaised with client's directly and analysed their requirements",
+        "Worked on a wide range of technologies: VR/AR/XR",
+        "Developed the precursor simulation that I was hired for in my next role."
          ]
     }
   ],
@@ -110,10 +110,10 @@
       "endDate": "2017-06-01",
       "courses": [
         "Systems Architecture (C#)",
-         "Games Development (C# & C++)",
-          "Advanced Programming & Algorithms (C++)",
-           "Front-End Development (JavaScript & Canvas)",
-            "Concurrency & Networking (C#)"
+        "Games Development (C# & C++)",
+        "Advanced Programming & Algorithms (C++)",
+        "Front-End Development (JavaScript & Canvas)",
+        "Concurrency & Networking (C#)"
           ]
     }
   ],
@@ -142,7 +142,7 @@
     {
       "name": "Creative Writing",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Absurdism","Science Fiction","High Fantasy","Modern Era Parody"]
+      "keywords": ["Absurdism", "Science Fiction", "High Fantasy", "Modern Era Parody"]
     },
     {
       "name": "Hobbyist Programming",
@@ -156,7 +156,7 @@
     {
       "name": "Advocacy and Awareness",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Mental Health Awareness","Disability Rights in the Workplace","Human-first and Compassionate Leadership"]
+      "keywords": ["Mental Health Awareness", "Disability Rights in the Workplace", "Human-first and Compassionate Leadership"]
     }
   ]
 }
