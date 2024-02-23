@@ -20,19 +20,17 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-A Technical Leader and Unity Developer with a decade of experience, primarily in Simulation and Games.<br>
-
-<strong>SKILLS</strong><br>
-Languages: <C# (10yr), C++(4yr)<br>
-Software: Unity, Visual Studio 20xx/Code, Rider<br>
-Platforms: PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
-Cloud: Firebase, Unity (IAP, Analytics)<br>
+A Technical Leader and Unity Developer with a decade of experience, primarily in Simulation and Games.
+<br><strong>SKILLS</strong>
+<br>Languages: C# (10yr), C++(4yr)
+<br>Software: Unity, Visual Studio 20xx/Code, Rider<br>
+<br>Platforms: PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
+<br>Cloud: Firebase, Unity (IAP, Analytics)<br>
 <br>
-Soft: Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
-Git / SVN: Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
-Proj Mgmt: JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br>
-Other: Miro, Confluence, Blender, CAD (Inventor, PiXYZ)
+<br>Soft: Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
+<br>Git / SVN: Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
+<br>Proj Mgmt: JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br>
+<br>Other: Miro, Confluence, Blender, CAD (Inventor, PiXYZ)
 
 <strong>PROFESSIONAL BIO</strong>
 
