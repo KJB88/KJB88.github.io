@@ -23,15 +23,16 @@ social: true # includes social icons at the bottom of the page
 A Technical Leader and Unity Developer with a decade of experience, primarily in Simulation and Games.
 <br><br>
 <strong>SKILLS</strong><br>
-Languages: C# (10yr), C++(4yr)<br>
-Software: Unity, Visual Studio 20xx/Code, Rider, Atom<br>
-Platforms: PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
-Cloud: Firebase, Unity (IAP, Analytics)<br>
+<b>Languages:</b> C# (10yr), C++(4yr), GDScript(6m)<br>
+Engine/Framework:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
+<b>IDE:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop<br>
+<b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
+<b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
 <br>
-Soft: Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
-Git / SVN: Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
-Proj Mgmt: JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br>
-Other: Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
+<b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
+<b>Git / SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
+<b>Proj Mgmt:</b> JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br>
+<b>Other:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
 
 <strong>PROFESSIONAL BIO</strong>
 
