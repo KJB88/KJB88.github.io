@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lead / Senior Unity C# Developer <br> <em>Mental Health Advocate | Compassionate Leader</em>
+subtitle: Unity C# Developer<br><em>Mental Health Advocate | Disability Rights Advocate</em><br>Compassionate Technical Leader
 nav_order: 1
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -34,8 +34,8 @@ A Technical Leader and Unity Developer with a decade of experience, primarily in
 <b>Proj Mgmt:</b> JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br>
 <b>Other:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
 
-<strong>PROFESSIONAL BIO</strong>
-
+<strong>PROFESSIONAL BIO</strong><br>
+I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive experiences for academia, a digital twin simulation for a multinational manufacturing company and a fashion gaming experience (including iOS companion app) at a remote games start-up.<br>I have hired for, built and led a team of Unity developers to deliver a successful product. I have pitched and designed a project from scratch. Then, after building a team and the supporting tech-stack, workflows and content pipelines; implemented, delivered and provided ongoing support post-release.<br>
 For a more personal view into The Life of Kev, please check out my Personal section of this site.
 
 Below are my professional contact options. Please feel free to reach out for anything.
