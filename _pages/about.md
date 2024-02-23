@@ -32,8 +32,8 @@ A Technical Leader and Unity Developer with a decade of experience, primarily in
 <b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
 <b>Git / SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
 <b>Proj Mgmt:</b> JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br>
-<b>Other:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
-<br>
+<b>Other:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments<br>
+
 <strong>PROFESSIONAL BIO</strong><br>
 I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up.<br>I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. <br>
 
