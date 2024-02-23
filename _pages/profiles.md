@@ -15,7 +15,7 @@ profiles:
     image_circular: true # crops the image to make it circular
 
   - align: left
-    image: prof_pic.jpg
+    image: ""
     content: bio_history.md
     image_circular: true # crops the image to make it circular
 
