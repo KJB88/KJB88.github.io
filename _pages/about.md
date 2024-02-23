@@ -2,10 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Lead / Senior Unity C# Developer
-subtitle: <em>Mental Health Advocate | Compassionate Leader</em>
+subtitle: Lead / Senior Unity C# Developer <br> <em>Mental Health Advocate | Compassionate Leader</em>
 nav_order: 1
-
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
