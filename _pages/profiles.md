@@ -17,15 +17,15 @@ profiles:
   - align: left
     image: cats/luna.jpg
     content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
 
   - align: left
     image: cats/arthas_loki_playing.jpg
     content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
 
   - align: left
     image: cats/loki.jpg
     content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
 ---
