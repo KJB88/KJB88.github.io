@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /personal/
 title: Personal Bio
 description: Here you'll find 'A Brief History of Kev'. It's a lot less enlightening than a similarly named book by a genius. Well, unless you like cats as much I do.
 nav: true
