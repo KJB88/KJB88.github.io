@@ -15,7 +15,7 @@ profiles:
       content: bio_personalOverview.md
       start_open: true
       image_circular: true # crops the image to make it circular
-      more_info: ""
+      #more_info: ""
 
   - align: left
       #image: ""
