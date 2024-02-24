@@ -1,4 +1,5 @@
 <p>
+<br />
 I'm an East Yorkshire lad, born in the maritime city of Hull in the UK. From a very early age, I was into video games. One of my earliest memories is playing Sonic 3 (& Knuckles!) upwards of 8 hours a day, every day. My dad introduced me to the wider world of PC precursor systems: the Commodore 64 then the Amiga 1200. I grew up playing the likes of Beach Head, Elite then Syndicate, UFO: Enemy Unknown and Cannon Fodder. Nothing like defending Earth from the Alien menace to really inspire a young mind!
 </p>
 <p>

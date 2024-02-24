@@ -19,7 +19,7 @@ profiles:
 
   - align: left
     #image: ""
-    content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! &ast;<em>jazz hands</em>&ast;
+    content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
     start_open: false
     #image_circular: false # crops the image to make it circular
