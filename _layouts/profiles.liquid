@@ -6,7 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        {% details profile.content-content_header %}
+        {% details profile.content-content_header %} # START custom details impl.
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -21,8 +21,6 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
-        </div>
-        {% enddetails %}
 
         <div class="clearfix">
           {% if profile.content %}
@@ -32,6 +30,7 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
+      {% enddetails %} # END custom details impl.
       {% endfor %}
     {% endif %}
   </article>
