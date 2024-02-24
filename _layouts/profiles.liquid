@@ -6,6 +6,10 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
+        <details>
+        <summary>
+        <strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!
+        </summary>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -30,6 +34,7 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
+        </details>
       {% endfor %}
     {% endif %}
   </article>

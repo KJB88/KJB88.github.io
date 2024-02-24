@@ -14,12 +14,14 @@ profiles:
     content_header: Introduction
     content: bio_personalOverview.md
     image_circular: true # crops the image to make it circular
+    more_info: ""
 
-  - align: left
+  #- align: left
     #image: ""
-    content_header: Background
-    content: bio_background.md
+    #content_header: Background
+    #content: bio_background.md
     #image_circular: false # crops the image to make it circular
+    #more_info: ""
 
   #- align: left
   #image: prof_pic.jpg
