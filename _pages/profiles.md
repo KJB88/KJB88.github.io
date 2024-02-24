@@ -22,14 +22,14 @@ profiles:
     #image_circular: false # crops the image to make it circular
 
   #- align: left
-    #image: prof_pic.jpg
-    #content_header: TEST
-    #content: about_einstein.md
-    #image_circular: true # crops the image to make it circular
+  #image: prof_pic.jpg
+  #content_header: TEST
+  #content: about_einstein.md
+  #image_circular: true # crops the image to make it circular
 
   #- align: left
-    #image: prof_pic.jpg
-    #content_header: TEST
-    #content: about_einstein.md
-    #image_circular: true # crops the image to make it circular
+  #image: prof_pic.jpg
+  #content_header: TEST
+  #content: about_einstein.md
+  #image_circular: true # crops the image to make it circular
 ---
