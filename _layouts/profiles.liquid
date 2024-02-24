@@ -6,7 +6,11 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        <details open>
+        {% if profile.count == '0' %}
+          <details open>
+        {% else %}
+          <details>
+        {% endif %}
           <summary>
             {% assign profile_title = profile.content_header %}
             {{ profile_title }}

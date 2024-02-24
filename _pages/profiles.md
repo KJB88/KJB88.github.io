@@ -13,6 +13,7 @@ profiles:
     image: kev_rocking_closeup.jpg
     content_header: <strong>INTRODUCTION</strong> - Let me give you the overview while I get you a cuppa!
     content: bio_personalOverview.md
+    count: 0
     image_circular: true # crops the image to make it circular
     more_info: ""
 
@@ -20,6 +21,7 @@ profiles:
     #image: ""
     content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! \*<em>jazz hands</em>\*
     content: bio_background.md
+    count: 1
     #image_circular: false # crops the image to make it circular
     #more_info: ""
 
