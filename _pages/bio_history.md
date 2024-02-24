@@ -1,4 +1,4 @@
-It's time for A Brief History of Kev! \*jazz hands&\*
+It's time for A Brief History of Kev! \*jazz hands\*
 
 I'm a Yorkshire lad, born in the maritime city of Hull. From a very early age, I was into video games. One of my earliest memories
 is playing Sonic 3 (& Knuckles!) 8 hours a day, every day. My dad introduced me to the wider world of PC precursor systems: the
