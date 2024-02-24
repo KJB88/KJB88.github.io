@@ -20,6 +20,7 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
+        </div>
 
         <div class="clearfix">
           {% if profile.content %}
@@ -29,7 +30,7 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
-        {% endfor %}
+      {% endfor %}
     {% endif %}
   </article>
 </div>
