@@ -1,4 +1,4 @@
-<strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!
+<details><summary><strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!</summary>
 
 Hi, I'm Kev! A thirty-something ADHD fella, struggling with sparse facial hair. You'll find me somewhere under a pile of cats! My partner-in-crime is a very tall German lady who is my inspiration, my muse and my emotional coach through life.
 
@@ -9,3 +9,4 @@ I suffer with a few select items of poor genetics! Crohn's Disease, ADHD and MAD
 I won't get too deep into my professional life, but I've been working with Unity and C# for a decade. Straight out of university, basically. Ahhh, what a fresh-faced young developer I was! I do enjoy some personal programming with other tools though. I made a Discord Bot to annoy my friends, plenty of MonoGame/XNA stuff in the past. I'm trying my luck with Godot and Unreal Engine. And I really miss my time working at a very low-level with C++. It might be time to get back on that too!
 
 You can find information below about my values, my hobbies, my background and, of course, my cats! Well, if you're interested that is!
+</details>
