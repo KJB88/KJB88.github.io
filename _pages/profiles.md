@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /personal/
 title: Personal Bio
-description: Here you'll find 'A Brief History of Kev'. It's a lot less enlightening than a similarly named book by a genius. <br>Well, unless you like cats as much I do.
+description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!
 nav: true
 nav_order: 2
 
