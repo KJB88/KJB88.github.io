@@ -23,6 +23,9 @@ I got my first real programming job here too! I worked in academia as a Unity de
 <p>
 At the same time I tried to complete my MSc Comp Sci & Games Dev post-grad. Big mistake! Working full time, studying full time and dealing with other personal issues simultaneously was impossible. I managed to complete about 75% of my post-grad with a whole lot of stress when something exceptional arrived... (it wasn't me. I was already there!).
 </p>
-<pp>
+<p>
 I was personally headhunted by a global client with whom I worked closely during my work with the University. They reached out to hire me for a very ambitious project and wanted me to design it <em>from scratch</em> AND <em>build a team to deliver it</em>. I couldn't say no as a graduate with only a year and bit of work under my belt. I dropped out of my MSc (I'll come back to you one day, I promise!) and shifted jobs.
+</p>
+<p>
+This new job accelerated my skillset to new heights. I learned business, I learned team leadership and management, I gained experience throughout the entire development pipeline.
 </p>
