@@ -1,4 +1,5 @@
 <p>
+<br />
 Hi, I'm Kev! A thirty-something ADHD fella, struggling with sparse facial hair. You'll find me somewhere under a pile of cats! My partner-in-crime is a very tall German lady who is my inspiration, my muse and my emotional coach through life.
 </p>
 <p>
