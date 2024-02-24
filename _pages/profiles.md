@@ -17,15 +17,15 @@ profiles:
     more_info: ""
 
   - align: left
-    image: ""
+    #image: ""
     content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! \*<em>jazz hands</em>\*
     content: bio_background.md
-    image_circular: false # crops the image to make it circular
-    more_info: ""
+    #image_circular: false # crops the image to make it circular
+    #more_info: ""
 
   #- align: left
   #image: prof_pic.jpg
-  #content_header: TEST
+  #content_header: <strong>INSPIRATIONS</strong> - We should always be grateful of people in our lives that drive us to become the best version of ourselves.
   #content: about_einstein.md
   #image_circular: true # crops the image to make it circular
 
