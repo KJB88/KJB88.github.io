@@ -5,7 +5,6 @@ layout: page
   <article>
     {% if page.profiles %}
       {% for profile in page.profiles %}
-      {% details profile.content_header %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
@@ -30,7 +29,6 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
-        {% enddetails %}
         {% endfor %}
     {% endif %}
   </article>
