@@ -6,7 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        <details>
+        <details open>
           <summary>
             {% assign profile_title = profile.content_header %}
             {{ profile_title }}
