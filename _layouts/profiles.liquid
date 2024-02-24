@@ -8,7 +8,7 @@ layout: page
         <hr>
         <details>
         <summary>
-        <strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!
+        {% profile.content_header %}
         </summary>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}

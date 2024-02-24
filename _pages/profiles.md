@@ -11,17 +11,17 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: kev_rocking_closeup.jpg
-    content_header: Introduction
+    content_header: <strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!
     content: bio_personalOverview.md
     image_circular: true # crops the image to make it circular
     more_info: ""
 
-  #- align: left
-    #image: ""
-    #content_header: Background
-    #content: bio_background.md
-    #image_circular: false # crops the image to make it circular
-    #more_info: ""
+  - align: left
+    image: ""
+    content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! \*<em>jazz hands</em>\*
+    content: bio_background.md
+    image_circular: false # crops the image to make it circular
+    more_info: ""
 
   #- align: left
   #image: prof_pic.jpg
