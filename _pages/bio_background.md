@@ -27,5 +27,11 @@ At the same time I tried to complete my MSc Comp Sci & Games Dev post-grad. Big 
 I was personally headhunted by a global client with whom I worked closely during my work with the University. They reached out to hire me for a very ambitious project and wanted me to design it <em>from scratch</em> AND <em>build a team to deliver it</em>. I couldn't say no as a graduate with only a year and bit of work under my belt. I dropped out of my MSc (I'll come back to you one day, I promise!) and shifted jobs.
 </p>
 <p>
-This new job accelerated my skillset to new heights. I learned business, I learned team leadership and management, I gained experience throughout the entire development pipeline.
+This new job accelerated my skillset to new heights. I learned business, I learned team leadership and management, I gained experience throughout the entire development pipeline. I met a true leader here who inspired me and redefined what my values were as a person and as a professional. Eventually I felt like I had reached my peak at the company and left for a fast paced indie start up in the games sector.
+</p>
+<p>
+It was here that I enjoyed full time remote working in a Senior position (it was in my title too!). I learned what it meant to have a truly comfortable working environment. Believe it or not, my house is actually where I keep all the stuff I like! That really helps with mental health and motivation! Everyone at the company was great, all very talented and fully embraced the remote working aspect. It was during this period I got diagnosed with ADHD (which explains like 35 years of bumbling through life...). However, shortly before the faithful Christmas of 2023, I was told my position was no longer feasible for the company, effective mid-January of 2024! Easy come, easy go; that's the start-up life for you!
+</p>
+<p>
+And that's roughly where I'm at now! Bereft of employment, thoroughly medicated and incredibly motivated to get stuff done! That's why my portfolio site is finally getting finished after a decade! Okay, now that was a good old yarn, so let's talk about more fun stuff now, shall we?
 </p>
