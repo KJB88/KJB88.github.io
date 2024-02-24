@@ -16,7 +16,7 @@ profiles:
 
   - align: left
     #image: ""
-    content: bio_history.md
+    content: bio_background.md
     #image_circular: false # crops the image to make it circular
 
   - align: left
