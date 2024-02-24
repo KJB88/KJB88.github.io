@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of my projects over the years. Some may be vague due to IPR and specific NDAs.
+description: WIP
 nav: true
 nav_order: 3
 display_categories: [Work, Personal]
