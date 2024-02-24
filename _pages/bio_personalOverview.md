@@ -1,5 +1,5 @@
-<details><summary><strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!</summary>
-
+<strong>INTRO</strong> - Let me give you the overview while I get you a cuppa!
+<br>
 <p>
 Hi, I'm Kev! A thirty-something ADHD fella, struggling with sparse facial hair. You'll find me somewhere under a pile of cats! My partner-in-crime is a very tall German lady who is my inspiration, my muse and my emotional coach through life.
 </p>
@@ -15,4 +15,3 @@ I won't get too deep into my professional life, but I've been working with Unity
 <p>
 You can find information below about my values, my hobbies, my background and, of course, my cats! Well, if you're interested that is!
 </p>
-</details>

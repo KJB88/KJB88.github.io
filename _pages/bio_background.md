@@ -1,5 +1,5 @@
-<details><summary><strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! \*<em>jazz hands</em>\*
-</summary>
+<strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! \*<em>jazz hands</em>\*
+<br>
 <p>
 I'm an East Yorkshire lad, born in the maritime city of Hull in the UK. From a very early age, I was into video games. One of my earliest memories is playing Sonic 3 (& Knuckles!) upwards of 8 hours a day, every day. My dad introduced me to the wider world of PC precursor systems: the Commodore 64 then the Amiga 1200. I grew up playing the likes of Beach Head, Elite then Syndicate, UFO: Enemy Unknown and Cannon Fodder. Nothing like defending Earth from the Alien menace to really inspire a young mind!
 </p>
@@ -27,4 +27,3 @@ At the same time I tried to complete my MSc Comp Sci & Games Dev post-grad. Big 
 <pp>
 I was personally headhunted by a global client with whom I worked closely during my work with the University. They reached out to hire me for a very ambitious project and wanted me to design it <em>from scratch</em> AND <em>build a team to deliver it</em>. I couldn't say no as a graduate with only a year and bit of work under my belt. I dropped out of my MSc (I'll come back to you one day, I promise!) and shifted jobs.
 </p>
-</details>
