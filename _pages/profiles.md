@@ -11,6 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: kev_rocking_closeup.jpg
+    content_header: Introduction
     content: bio_personalOverview.md
     image_circular: true # crops the image to make it circular
 

@@ -6,6 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
+        {% details profile.content-content_header %}
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -21,6 +22,7 @@ layout: page
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
         </div>
+        {% enddetails %}
 
         <div class="clearfix">
           {% if profile.content %}
@@ -36,6 +38,10 @@ layout: page
 </div>
 
 <script src="/js/zepto.min.js"></script>
-<script>jQuery = Zepto;</script>
+<script>
+  jQuery = Zepto;
+</script>
 <script src="/js/jquery.details.min.js"></script>
-<script>$('details').details();</script>
+<script>
+  $('details').details();
+</script>
