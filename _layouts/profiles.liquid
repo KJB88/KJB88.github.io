@@ -6,7 +6,7 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-        {% if profile.count == '0' %}
+        {% if profile.start_open %}
           <details open>
         {% else %}
           <details>
