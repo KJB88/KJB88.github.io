@@ -26,18 +26,23 @@ profiles:
       #more_info: ""
 
   - align: left
-    #image: prof_pic.jpg
-    content_header: <strong>INSPIRATIONS</strong> - Be grateful for those that care for you.
+    image: kev_n_the_kevs.jpg
+    content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
+    image_circular: true # crops the image to make it circular
+    start_open: false
+
+  - align: left
+    #image: prof_pic.jpg
+    content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
+    content: bio_hobbies.md
     #image_circular: true # crops the image to make it circular
     start_open: false
 
-  #- align: left
-    #image: prof_pic.jpg
-    #content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
-    #content: bio_hobbies.md
-    #image_circular: true # crops the image to make it circular
-    #start_open: false
-
-
+  - align: left
+    image: prof_pic.jpg
+    content_header: <strong>CATS</strong> - Always save the best until last!
+    content: bio_hobbies.md
+    image_circular: true # crops the image to make it circular
+    start_open: false
 ---

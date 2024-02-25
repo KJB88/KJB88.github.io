@@ -26,6 +26,12 @@ I have a best friend who is a very stalwart, stoic person. Under the layers of u
 Another friend of mine is a very talented developer, practically a genius. I met him while I was studying at university but at this point, he could be a CTO! But he prefers the comfortable life of stability and doing what he loves; programming. I made the mistake of comparing myself to him in university, but as the years went on, I realised that its not about comparison, its about inspiration. I took notes of his advice, improving my own approaches and used his incredible talent to inspire me to grow my own.
 </p>
 <p>
-<strong>The Life of the Party</strong>
-While I was at university, I met another unique individual.
+<strong>The Jokester</strong>
+<br />
+While I was at university, I met another unique individual. He struggled a lot with his confidence when programming (even though his code was great) but he had a huge personality. Always laughing, joking and for some reason; eating. But he kept our spirits up constantly. He's a great guy and is doing really well in his career nowadays! He taught me that no matter what we're doing, where we're doing it or why we're doing it; there's always a bright-side or a chance for you to raise the spirits of others nearby. It took me awhile to appreciate this, but I owe it to this bloke for that lesson.
+</p>
+<p>
+<strong>The Leader</strong>
+<br />
+Later in my career, I met a true exemplar for real leadership. He wasn't just a 'boss', he was a supportive friend, compassion colleague and amazing person in general. He taught me what it REALLY meant to be a leader. That its a responsibility for people, not 'a team' or 'the business'. He always adopted a supportive role, facilitating whatever tools we needed to get our job done, no matter the task at hand or working environment. But he also knew we were human. We all had our own personal struggles, me especially, and he always treated me like a human first, employee second. No matter the issue, he was there to support me through it, regardless of what the business stated was to happen in that situation. I learned a lot about leadership from this guy and he instilled within me one of my core values that I carry to this day.
 </p>
