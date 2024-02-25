@@ -23,5 +23,9 @@ I have a best friend who is a very stalwart, stoic person. Under the layers of u
 <p>
 <strong>The Genius</strong>
 <br />
-Another friend of mine is a very talented developer, practically a genius. At this point, he could be a CTO but he prefers the comfortable life of stability and doing what he loves; programming. I made the mistake of comparing myself to him in university, but as the years went on, I realised that its not about comparison, its about inspiration. I took notes of his advice, improving my own approaches and used his incredible talent to inspire me to grow my own.
+Another friend of mine is a very talented developer, practically a genius. I met him while I was studying at university but at this point, he could be a CTO! But he prefers the comfortable life of stability and doing what he loves; programming. I made the mistake of comparing myself to him in university, but as the years went on, I realised that its not about comparison, its about inspiration. I took notes of his advice, improving my own approaches and used his incredible talent to inspire me to grow my own.
+</p>
+<p>
+<strong>The Life of the Party</strong>
+While I was at university, I met another unique individual.
 </p>
