@@ -9,6 +9,7 @@ As I grew up, the question of where games actually came from started to form in 
 </p>
 <p>
 <strong>Biology & Freedom</strong>
+<br />
 It was around this time I had a major hurdle in my life. My Crohn's disease, a rather grumpy and inconsiderate partner-slash-condition I had been carrying around since birth, decided it'd had enough of my gluttonous love for turkey dinosaurs and soggy potatoes and came for revenge. Homestuck due to the pain, exhaustion and 'less fun' symptoms, I spent my time playing PSX and N64 games with infrequent home-education provided by my school. I eventually had a major operation called an intestinal bisection, which just sounds like someone went in there with a pair of scissors. This really helped, but caused lots of complications during recovery. I think I missed the entire final 4 years of secondary school education. I still sat my GCSES; 2 Cs and 2 Ds for the core subjects. Not bad for someone who barely studied for almost the entirety of secondary school!
 </p>
 <p>
