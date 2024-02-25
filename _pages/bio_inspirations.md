@@ -1,5 +1,6 @@
 <p>
 <br />
+<strong>Words of Wisdom</strong>
 Along our journey, we meet so many different souls. Many of them we may never see again after our first interaction, others become life-long friends and partners, whom we share our entire lives with in one way or another. Friends, colleagues, acquaitances, family, partners, pets. Much like the wonderful world of game physics, every interaction nudges the direction of our life slightly. The good interactions push us with inspiration, happiness and fulfillment. The bad interactions throw us around like a ragdoll, bouncing our life an feelings everywhere. I really hope I never reach Half-Life ragdoll level of emotional turmoil. I like my bones intact, thank you very much.
 </p>
 <p>

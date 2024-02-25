@@ -1,6 +1,6 @@
 ---
-layout: profiles
-permalink: /personal/
+layout: bio
+permalink: /bio/
 title: Personal Bio
 description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!
 nav: true
@@ -27,7 +27,7 @@ profiles:
 
   - align: left
     #image: prof_pic.jpg
-    content_header: <strong>INSPIRATIONS</strong> - We should always be grateful of the people in our lives that drive us to become the best version of ourselves.
+    content_header: <strong>INSPIRATIONS</strong> - Be grateful for those that care for you.
     content: bio_inspirations.md
     #image_circular: true # crops the image to make it circular
     start_open: false
