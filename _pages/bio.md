@@ -21,8 +21,8 @@ profiles:
     image: brief_history_of_kev.jpg
     content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
-    start_open: true
-    image_circular: false # crops the image to make it circular
+    start_open: false
+    image_circular: true # crops the image to make it circular
     more_info: It's a real picture, I promise.
 
   - align: right
