@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: kev_rocking_closeup.jpg
+    image: me_n_tea.jpg
     content_header: <strong>INTRODUCTION</strong> - Let me give you the overview while I get you a cuppa!
     content: bio_personal.md
     start_open: true
