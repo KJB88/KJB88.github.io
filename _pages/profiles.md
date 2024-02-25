@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: kev_rocking_closeup.jpg
     content_header: <strong>INTRODUCTION</strong> - Let me give you the overview while I get you a cuppa!
-    content: bio_personalOverview.md
+    content: bio_personal.md
     start_open: true
     image_circular: true # crops the image to make it circular
       #more_info: ""
@@ -27,15 +27,17 @@ profiles:
 
   - align: left
     #image: prof_pic.jpg
-    content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
-    content: bio_hobbies.md
+    content_header: <strong>INSPIRATIONS</strong> - We should always be grateful of the people in our lives that drive us to become the best version of ourselves.
+    content: bio_inspirations.md
     #image_circular: true # crops the image to make it circular
     start_open: false
 
   #- align: left
     #image: prof_pic.jpg
-    #content_header: <strong>INSPIRATIONS</strong> - We should always be grateful of people in our lives that drive us to become the best version of ourselves.
-    #content: bio_partners.md
+    #content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
+    #content: bio_hobbies.md
     #image_circular: true # crops the image to make it circular
     #start_open: false
+
+
 ---
