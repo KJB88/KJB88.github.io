@@ -20,6 +20,6 @@
 <br />
 </p>
 <p>
-<string>Reading</strong>
+<strong>Reading</strong>
 <br />
 </p>

@@ -6,7 +6,6 @@
 <p>
 <strong>Arthas - The King</strong>
 <br />
-<img src="arthas.jpg" alt="Picture of Arthas the cat." class="responsive"> 
 </p>
 <p>
 <strong>Luna - The Queen (but not <em>a</em> queen)</strong>
