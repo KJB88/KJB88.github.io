@@ -18,12 +18,12 @@ profiles:
     more_info: Cuppas ready! You ready for the story of Kev yet?
 
   - align: left
-    #image: ""
+    image: brief_history_of_kev.jpg
     content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
     start_open: false
-    #image_circular: false # crops the image to make it circular
-      #more_info: ""
+    image_circular: false # crops the image to make it circular
+    more_info: It's a real picture, I promise.
 
   - align: right
     image: kev_n_the_kevs.jpg
