@@ -26,7 +26,7 @@ profiles:
     more_info: It's a real picture! Honest. I swear.
 
   - align: right
-    image: kev_n_the_kevs.jpg
+    image: kev_n_the_kevs2.jpg
     content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
