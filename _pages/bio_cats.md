@@ -6,7 +6,7 @@
 <p>
 <strong>Arthas - The King</strong>
 <br />
-<img src="{{ '/assets/img/arthas.jpg' | relative_url }}" width="100" style="vertical-align: middle;">
+<img src="{{ 'assets/img/arthas.jpg' | relative_url }}" width="100" style="vertical-align: middle;">
 </p>
 <p>
 <strong>Luna - The Queen (but not <em>a</em> queen)</strong>
