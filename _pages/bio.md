@@ -23,7 +23,7 @@ profiles:
     content: bio_background.md
     start_open: false
     image_circular: true # crops the image to make it circular
-    more_info: It's a real picture, I promise.
+    more_info: It's a real picture! Honest. I swear.
 
   - align: right
     image: kev_n_the_kevs.jpg
