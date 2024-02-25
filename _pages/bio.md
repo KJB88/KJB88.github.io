@@ -15,7 +15,7 @@ profiles:
     content: bio_personal.md
     start_open: true
     image_circular: true # crops the image to make it circular
-      #more_info: ""
+    more_info: Cuppas ready! You ready for the story of Kev yet?
 
   - align: left
     #image: ""
@@ -25,12 +25,13 @@ profiles:
     #image_circular: false # crops the image to make it circular
       #more_info: ""
 
-  - align: center
+  - align: right
     image: kev_n_the_kevs.jpg
     content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
     start_open: false
+    more_info: I love a relevant meme, don't you?
 
   - align: left
     #image: prof_pic.jpg
@@ -40,9 +41,9 @@ profiles:
     start_open: false
 
   - align: left
-    image: prof_pic.jpg
+    #image: prof_pic.jpg
     content_header: <strong>CATS</strong> - Always save the best until last!
     content: bio_hobbies.md
-    image_circular: true # crops the image to make it circular
+    #image_circular: true # crops the image to make it circular
     start_open: false
 ---
