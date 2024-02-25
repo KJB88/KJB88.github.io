@@ -25,11 +25,11 @@ profiles:
     #image_circular: false # crops the image to make it circular
       #more_info: ""
 
-  - align: left
+  - align: center
     image: kev_n_the_kevs.jpg
     content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     start_open: false
 
   - align: left
