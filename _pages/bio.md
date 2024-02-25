@@ -21,7 +21,7 @@ profiles:
     image: brief_history_of_kev.jpg
     content_header: <strong>BACKGROUND</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
-    start_open: false
+    start_open: true
     image_circular: false # crops the image to make it circular
     more_info: It's a real picture, I promise.
 
@@ -31,7 +31,7 @@ profiles:
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
     start_open: false
-    more_info: I love a relevant meme, don't you?
+    more_info: Any excuse for a meme, really.
 
   - align: left
     #image: prof_pic.jpg
@@ -43,7 +43,7 @@ profiles:
   - align: left
     #image: prof_pic.jpg
     content_header: <strong>CATS</strong> - Always save the best until last!
-    content: bio_hobbies.md
+    content: bio_cats.md
     #image_circular: true # crops the image to make it circular
     start_open: false
 ---
