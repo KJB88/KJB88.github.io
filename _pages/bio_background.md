@@ -31,6 +31,7 @@ At the same time I tried to complete my MSc Comp Sci & Games Dev post-grad. Big 
 </p>
 <p>
 <strong>Professionalism & Confidence</strong>
+<br />
 I was personally headhunted by a global client with whom I worked closely during my work with the University. They reached out to hire me for a very ambitious project and wanted me to design it <em>from scratch</em> <strong>and</strong> <em>build a team to deliver it</em>. I couldn't say no as a graduate with only a year and bit of work under my belt. I dropped out of my MSc (I'll come back to you one day, I promise!) and shifted jobs.
 </p>
 <p>
