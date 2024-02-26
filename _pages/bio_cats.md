@@ -6,7 +6,6 @@
 <p>
 <strong>Arthas - The King</strong>
 <br />
-<img src="{{ '/img/arthas.jpg' | relative_url }}" width="100" style="vertical-align: middle;">
 </p>
 <p>
 <strong>Luna - The Queen</strong>
