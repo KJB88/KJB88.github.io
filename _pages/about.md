@@ -22,15 +22,15 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <strong>SKILLS</strong><br />
-<b>Languages:</b> C# (10yr), C++(4yr), GDScript(6m)<br />
+<b>Languages:</b> C# (9+yr), C++(4yr), GDScript(<1y)<br />
 <b>Dev:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
 <b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop, XCode<br />
 <b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br />
-<b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
+<b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br />
 <br />
 <b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br />
 <b>GIT/SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br />
-<b>Proj Mgmt:</b> JIRA (6yr), DevOps/TFS (4yr), Trello (10yr)<br />
+<b>Proj Mgmt:</b> JIRA (5+yr), DevOps/TFS (7yr), Trello (9+yr)<br />
 <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments<br />
 
 <strong>PROFESSIONAL BIO</strong><br />
