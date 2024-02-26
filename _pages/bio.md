@@ -26,7 +26,7 @@ profiles:
     more_info: It's a real picture! Honest. I swear.
 
   - align: right
-    image: kev_n_the_kevs2.jpg
+    image: kev_n_the_kevs.jpg
     content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
@@ -34,10 +34,10 @@ profiles:
     more_info: Any excuse for a meme, really.
 
   - align: left
-    #image: prof_pic.jpg
+    image: the_cat_conspiracy.jpg
     content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
     content: bio_hobbies.md
-    #image_circular: true # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     start_open: false
 
   - align: left
