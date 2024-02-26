@@ -20,6 +20,10 @@
 <br />
 </p>
 <p>
+<strong>Languages</strong>
+<br />
+</p>
+<p>
 <strong>Reading</strong>
 <br />
 </p>
