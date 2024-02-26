@@ -15,6 +15,7 @@
 <strong>Loki - The Trickster</strong>
 <br />
 </p>
+<img src="{{ 'loki.jpg | asset_url'}}">
 <p>
 <strong>Gismo - The soon-to-be King</strong>
 <br />
