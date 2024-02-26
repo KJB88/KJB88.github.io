@@ -33,12 +33,12 @@ profiles:
     start_open: false
     more_info: Any excuse for a meme, really.
 
-  #- align: left
-    #image: the_cat_conspiracy_closeup.jpg
-    #content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
-    #content: bio_hobbies.md
-    #image_circular: true # crops the image to make it circular
-    #start_open: false
+  - align: left
+    image: the_cat_conspiracy_closeup.jpg
+    content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
+    content: bio_hobbies.md
+    image_circular: true # crops the image to make it circular
+    start_open: false
 
   #- align: left
     #image: prof_pic.jpg
