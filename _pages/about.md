@@ -9,7 +9,7 @@ nav_order: 1
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Based in Hull,</p>
     <p>East Riding of Yorkshire,</p>
