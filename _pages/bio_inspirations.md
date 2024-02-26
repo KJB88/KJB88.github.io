@@ -35,3 +35,8 @@ While I was at university, I met another unique individual. He struggled a lot w
 <br />
 Later in my career, I met a true exemplar for real leadership. He wasn't just a 'boss', he was a supportive friend, compassion colleague and amazing person in general. He taught me what it REALLY meant to be a leader. That its a responsibility for people, not 'a team' or 'the business'. He always adopted a supportive role, facilitating whatever tools we needed to get our job done, no matter the task at hand or working environment. But he also knew we were human. We all had our own personal struggles, me especially, and he always treated me like a human first, employee second. No matter the issue, he was there to support me through it, regardless of what the business stated was to happen in that situation. I learned a lot about leadership from this guy and he instilled within me one of my core values that I carry to this day.
 </p>
+<p>
+<strong>The Family</strong>
+<br />
+Naturally I have to thank my family too! My parents for ripping me from the ocean of souls and imprisoning me in this mortal cage made of meat. But also, for gifting me the drive, passion and creativity that empowers my every action and decision in life. My siblings, 3 brothers and a sister, for their endless support and encouragement throughout my life, even when I wasn't the best older brother to them. Especially my late brother, who despite leaving us far too early, still inspires me to this day to help and support as many people as possible through this awful mental health crisis.
+</p>
