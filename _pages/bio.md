@@ -2,7 +2,7 @@
 layout: bio
 permalink: /bio/
 title: Personal Bio
-description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!!
+description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!!!
 nav: true
 nav_order: 2
 
