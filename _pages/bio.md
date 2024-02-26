@@ -40,10 +40,10 @@ profiles:
     image_circular: true # crops the image to make it circular
     start_open: false
 
-  #- align: left
-    #image: prof_pic.jpg
-    #content_header: <strong>CATS</strong> - Always save the best until last!
-    #content: bio_cats.md
-    #image_circular: true # crops the image to make it circular
-    #start_open: false
+  - align: left
+    image: luna.jpg
+    content_header: <strong>CATS</strong> - Always save the best until last!
+    content: bio_cats.md
+    image_circular: true # crops the image to make it circular
+    start_open: false
 ---
