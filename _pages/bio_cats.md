@@ -2,6 +2,7 @@
 <br />
 <strong>The Grand Finale</strong>
 <br />
+<img src="/_assets/images/loki.jpg">
 </p>
 <p>
 <strong>Arthas - The King</strong>
