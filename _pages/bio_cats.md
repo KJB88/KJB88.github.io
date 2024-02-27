@@ -2,13 +2,13 @@
 <br />
 <strong>The Grand Finale</strong>
 <br />
-Cats! Cats everywhere! A big part of my life are my cats; Arthas, the black and white tuxedo boy. He's 4 and a half. He's the boss around here. And Luna, the big tortoiseshell girl. She's 3 and a half and loves to eat. There's also little Loki, the voidling trickster. She's 2 and a half. She loves to zoom and play with Arthas! And last, but not least, there's Gismo! Gismo is my partner's chunky tonkinese boy! He'll be moving in with the rest of his sisters and brother once we're all set!
+Cats! Cats everywhere! A big part of my life are my cats; Arthas, the black and white tuxedo boy. He's 4 and a half. He's the boss around here. And Luna, the big tortoiseshell girl. She's 3 and a half and loves to eat. There's also little Loki, the voidling trickster. She's 2 and a half. She loves to zoom and play with Arthas! And last, but not least, there's Gismo! Gismo is my partner's 12 year old, chunky, tonkinese old man! He'll be joining us here in the mad house when my fiancé and I lock down a wedding date.
 </p>
 <p>
 <strong>Arthas - The King</strong>
 <br />
 <img src="/assets/img/arthas_loki_playing.jpg" class="img-fluid z-depth-1 rounded-circle" width="25%" height="auto" alt="Arthas the King!" align="right" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This is Arthas! Named after the Lich King of the Scourge from World of Warcraft. Yes, it's nerdy. No, it wasn't <em>purely</em> my decision! Both myself and an ex gave him the rather geeky name. But I love him all the same. He's a sweet boy, but loves to show off that he runs the place to his little sisters.
 </p>
 <p>
 <strong>Luna - The Queen</strong>
