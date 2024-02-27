@@ -25,6 +25,13 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: It's a real picture! Honest. I swear.
 
+  - align: left
+    #image: luna.jpg
+    content_header: <strong>CORE VALUES</strong> - A kind word can save a life.
+    content: bio_values.md
+    #image_circular: true # crops the image to make it circular
+    start_open: false
+
   - align: right
     image: kev_n_the_kevs.jpg
     content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
@@ -39,6 +46,13 @@ profiles:
     content: bio_hobbies.md
     image_circular: true # crops the image to make it circular
     start_open: false
+
+  #- align: left
+    #image: luna.jpg
+    #content_header: <strong>DISABILITIES</strong> - My power must be contained somehow!
+    #content: bio_disabilities.md
+    #image_circular: true # crops the image to make it circular
+    #start_open: false
 
   - align: left
     #image: luna.jpg
