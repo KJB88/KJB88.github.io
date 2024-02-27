@@ -16,7 +16,7 @@ It was around this time I had a major hurdle in my life. My Crohn's disease, a r
 Anyway, onto a slightly better time after that! With my health somewhat improved and free from the shackles of mandatory education; I went into optional education instead! To the realms of Sixth Form College I go! I met a lot of good friends here, peers who are out in the world now making a change. I studied the only IT / Comp-Sci relevant subject available; 'IT Practitioners', both as a 'First Diploma' and a 'National Diploma', whatever those are. After that, I decided that education wasn't for me right now and had that whole 'find your purpose in life' phase.
 </p>
 <p>
-Now we skip over a large portion of my life which I have aptly named the 'Blunder Years'. Because it was just me blundering around, making mistakes and trying to find a purpose in life. Instead, I found Mixed Depression and Anxiety Disorder (MADD) and I can't find anyone to buy it off me so I'm stuck with it. This must be why they say impulse purchases are bad.
+Now we skip over a large portion of my life which I have aptly named the 'Blunder Years'. Because it was just me blundering around, making mistakes and trying to find a purpose in life. Instead, I found Mixed Anxiety and Depressive Disorder (MADD) and I can't find anyone to buy it off me so I'm stuck with it. This must be why they say impulse purchases are bad.
 </p>
 <p>
 <strong>Velocity & Passion</strong>
@@ -38,7 +38,7 @@ I was personally headhunted by a global client with whom I worked closely during
 This new job accelerated my skillset to new heights. I learned business, I learned team leadership and management, I gained experience throughout the entire development pipeline. I met a true leader here who inspired me and redefined what my values were as a person and as a professional. Eventually I felt like I had reached my peak at the company and left for a fast paced indie start up in the games sector.
 </p>
 <p>
-It was here that I enjoyed full time remote working in a Senior position (it was in my title too!). I learned what it meant to have a truly comfortable working environment. Believe it or not, my house is actually where I keep all the stuff I like! That really helps with mental health and motivation! Everyone at the company was great, all very talented and fully embraced the remote working aspect. It was during this period I got diagnosed with ADHD (which explains like 35 years of bumbling through life...). However, shortly before the faithful Christmas of 2023, I was told my position was no longer feasible for the company, effective mid-January of 2024! Easy come, easy go; that's the start-up life for you!
+It was here that I enjoyed full time remote working in a Senior position (it was in my title too!). I learned what it meant to have a truly comfortable working environment. Believe it or not, my house is actually where I keep all the stuff I like! That really helps with mental health and motivation! Everyone at the company was great, all very talented and fully embraced the remote working aspect. It was during this period I got diagnosed with combined ADHD (which explains like 35 years of bumbling through life...). However, shortly before the faithful Christmas of 2023, I was told my position was no longer feasible for the company, effective mid-January of 2024! Easy come, easy go; that's the start-up life for you!
 </p>
 <p>
 <strong>Reflection & the Future</strong>

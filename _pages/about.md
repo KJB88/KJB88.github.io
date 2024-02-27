@@ -36,6 +36,6 @@ social: true # includes social icons at the bottom of the page
 <strong>PROFESSIONAL BIO</strong><br />
 I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up.<br />I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. <br />
 
-For a more personal biography of me and my interests, please check out my <a href='/personal'>Personal Bio here</a>.<br />
+For a more personal biography of me and my interests, please check out my <a href='/bio'>Personal Bio here</a>.<br />
 
 Below are my professional contact options. Please feel free to reach out for anything.

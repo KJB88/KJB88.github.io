@@ -26,10 +26,8 @@ profiles:
     more_info: It's a real picture! Honest. I swear.
 
   - align: left
-    #image: luna.jpg
     content_header: <strong>CORE VALUES</strong> - A kind word can save a life.
     content: bio_values.md
-    #image_circular: true # crops the image to make it circular
     start_open: false
 
   - align: right
@@ -48,16 +46,12 @@ profiles:
     start_open: false
 
   #- align: left
-    #image: luna.jpg
-    #content_header: <strong>DISABILITIES</strong> - My power must be contained somehow!
+    #content_header: <strong>DISABILITIES</strong> - This part will get deep, so trigger warnings.
     #content: bio_disabilities.md
-    #image_circular: true # crops the image to make it circular
     #start_open: false
 
   - align: left
-    #image: luna.jpg
     content_header: <strong>CATS</strong> - Always save the best until last!
     content: bio_cats.md
-    #image_circular: true # crops the image to make it circular
     start_open: false
 ---
