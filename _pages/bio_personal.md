@@ -10,7 +10,7 @@ Like a typical human being, there's a lot to me. I'm driven, passionate, free-sp
 <p>
 <strong>Speedrun of Me. Handicapped but Determined.</strong>
 <br />
-I suffer with a few select items of poor genetics! Crohn's Disease, ADHD and MADD. Because of these disabilities, I'm a vocal advocate for Mental Health Awareness and Wellbeing, Disability Rights in the Workplace and a 'Human-First, Employee-Second' approach to Leadership. I believe in Trust, Integrity, Compassion and Support. We're all humans, so let's all treat each other like humans first and foremost. I'll get my protest board out and give you the lecture later!
+I suffer with a few select items of poor genetics! Crohn's Disease, combined ADHD and MADD. Because of these disabilities, I'm a vocal advocate for Mental Health Awareness and Wellbeing, Disability Rights in the Workplace and a 'Human-First, Employee-Second' approach to Leadership. I believe in Trust, Integrity, Compassion and Support. We're all humans, so let's all treat each other like humans first and foremost. I'll get my protest board out and give you the lecture later!
 </p>
 <p>
 <strong>Speedrun of Me. Tool-Assisted Speedrun</strong>
