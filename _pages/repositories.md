@@ -2,10 +2,13 @@
 layout: page
 permalink: /repositories/
 title: Repos
-description: It's where I keep my code and stuff. Well, just code actually. Feel free to check my repos out!
+description: It's where I keep my code and stuff. Well, just code actually. All of my work is stored on Github. Feel free to check my repos out!
+url: https://github.com/KJB88
 nav: true
 nav_order: 4
 ---
+
+Here is the direct link to my Github: <a href="https://github.com/KJB88">https://github.com/KJB88</a>!
 
 ## GitHub Stats
 
