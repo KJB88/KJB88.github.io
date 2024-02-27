@@ -12,7 +12,7 @@ I absolutely love programming. And I especially love games programming. My day j
 <p>
 <strong>Gaming</strong>
 <br />
-I've been an avid gamer ever since I was about 4 years old. I have kept this passion and interest throughout my life, amassing a library of over 850+ games on my Steam account. If I factor in all the games I've bought for other platforms, we're well over 1000+. I love story-heavy games like RPGs but I also love the tension and planning for first-persion survival and/or extraction shooters. For me, it's not all about fun; its also about what a game makes me feel and I love it when they make me feel immersed.
+I've been an avid gamer ever since I was about 4 years old. I have kept this passion and interest throughout my life, amassing a library of over 850+ games on my Steam account. If I factor in all the games I've bought for other platforms, we're well over 1000+. I love story-heavy games like RPGs but I also love the tension and planning for first-person survival and/or extraction shooters. For me, it's not all about fun; its also about what a game makes me feel and I love it when they make me feel immersed.
 </p>
 <p>
 <strong>Creative Writing</strong>
@@ -27,7 +27,7 @@ I love reading as a way to wind-down in the evenings. From Shorts to Epics, I lo
 <p>
 <strong>Violin</strong>
 <br />
-Now, let me preface this by saying I have never had any musical aptitude. My natural gift was always science, not the arts! But the Violin is an incredibly beautiful instruement, each draw of the bow across the strings pulls at my heartstrings. So I endeavoured to learn how to produce such beautiful sounds from it! Inbetween my other hobbies and lack of time during working over the years, this hobby of mine has laid dormant for far too long. When circumstances permit, I will definitely be picking up lessons from a professional!
+Now, let me preface this by saying I have never had any musical aptitude. My natural gift was always science, not the arts! But the Violin is an incredibly beautiful instrument, each draw of the bow across the strings pulls at my heartstrings. So I endeavoured to learn how to produce such beautiful sounds from it! In between my other hobbies and lack of time during working over the years, this hobby of mine has laid dormant for far too long. When circumstances permit, I will definitely be picking up lessons from a professional!
 </p>
 <p>
 <strong>Languages</strong>

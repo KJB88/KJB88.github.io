@@ -2,13 +2,13 @@
 <br />
 <strong>Words of Wisdom</strong>
 <br />
-Along our journey, we meet so many different souls. Many of them we may never see again after our first interaction, others become life-long friends and partners, whom we share our entire lives with in one way or another. Friends, colleagues, acquaitances, family, partners, pets. Much like the wonderful world of game physics, every interaction nudges the direction of our life slightly. The good interactions push us with inspiration, happiness and fulfillment. The bad interactions throw us around like a ragdoll, bouncing our life an feelings everywhere. I really hope I never reach Half-Life ragdoll level of emotional turmoil. I like my bones intact, thank you very much.
+Along our journey, we meet so many different souls. Many of them we may never see again after our first interaction, others become life-long friends and partners, whom we share our entire lives with in one way or another. Friends, colleagues, acquaintances, family, partners, pets. Much like the wonderful world of game physics, every interaction nudges the direction of our life slightly. The good interactions push us with inspiration, happiness and fulfilment. The bad interactions throw us around like a ragdoll, bouncing our life an feelings everywhere. I really hope I never reach Half-Life ragdoll level of emotional turmoil. I like my bones intact, thank you very much.
 </p>
 <p>
 As you can imagine for anyone who has ever ventured outside their house at least once (honest, it happened!), I've met a whole bunch of people. I consider most of these my friends that I care for very much. In this section, I would like to basically praise them for being the unique, amazing people that they are and describe the impact they've had on me. You should always tell those close to you and those who have had a positive impact how much you genuinely appreciate them. No one gets to hear that enough in their life.
 </p>
 <p>
-Okay, so I've definitely got to praise my friends or I'll never hear the end of the complaining! Now, I can't cover all of the hundreds of people I call my friends in some capacity, so I'll only go over the closest of the close and those who had the greatest impact on me. Over the decades, I've collected a large menagerie of varied indivduals within the absurd and ridiculous 'Danger Zone' I call my various friendship circles.
+Okay, so I've definitely got to praise my friends or I'll never hear the end of the complaining! Now, I can't cover all of the hundreds of people I call my friends in some capacity, so I'll only go over the closest of the close and those who had the greatest impact on me. Over the decades, I've collected a large menagerie of varied individuals within the absurd and ridiculous 'Danger Zone' I call my various friendship circles.
 </p>
 <p>
 <strong>The Muse</strong>
