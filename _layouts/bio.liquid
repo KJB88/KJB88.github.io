@@ -6,11 +6,11 @@ layout: page
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>
-          <details>
-          <summary>
-            {% assign profile_title = profile.content_header %}
-            <span>{{ profile_title }}</span>
-          </summary>
+        <details>
+        <summary>
+          {% assign profile_title = profile.content_header %}
+          <span>{{ profile_title }}</span>
+        </summary>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
@@ -38,7 +38,7 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
-          </details>
+        </details>
       {% endfor %}
     {% endif %}
   </article>

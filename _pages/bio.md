@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 social: true # includes social icons at the bottom of the page
 toc:
-   sidebar: left
+  sidebar: left
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
