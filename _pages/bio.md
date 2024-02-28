@@ -56,6 +56,8 @@ profiles:
     content_header: <strong>CATS</strong> - Always save the best until last!
     content: bio_cats.md
     start_open: false
----
 
-<a href="#">Back to Top?<a/>
+
+---
+    <a href="#">Back to Top?<a/>
+---
