@@ -45,10 +45,10 @@ profiles:
     image_circular: true # crops the image to make it circular
     start_open: false
 
-  #- align: left
-    #content_header: <strong>DISABILITIES</strong> - This part will get deep, so trigger warnings.
-    #content: bio_disabilities.md
-    #start_open: false
+  - align: left
+    content_header: <strong>DISABILITIES</strong> - Trigger warnings, but helpline numbers inside.
+    content: bio_disabilities.md
+    start_open: false
 
   - align: left
     content_header: <strong>CATS</strong> - Always save the best until last!
