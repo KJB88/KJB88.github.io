@@ -27,7 +27,9 @@ layout: page
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
           {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
+            <div class="more-info">
+              {{ profile.more_info }}
+            </div>
           {% endif %}
         </div>
 
@@ -40,7 +42,7 @@ layout: page
             {{ content }}
           {% endif %}
         </div>
-        </details>
+      </details>
       {% endfor %}
     {% endif %}
   </article>
