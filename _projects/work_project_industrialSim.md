@@ -2,11 +2,10 @@
 layout: page
 title: Unity Industrial Simulation
 description: A simulation built in Unity to reflect real-world state of a production facility.
-img: 
+img:
 importance: 1
 category: Work
 ---
-Photo by <a href="https://unsplash.com/@nrdoherty?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Nicholas Doherty</a> on <a href="https://unsplash.com/photos/white-electic-windmill-pONBhDyOFoM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
