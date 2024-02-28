@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unity Industrial Simulation
-description: Innovative simulation powered by Unity. Driven by real-world data & sandbox inputs.
+description: Innovative simulation powered by Unity. Driven by real-world data & facilitating business decisions.
 img:
 importance: 1
 category: Work
