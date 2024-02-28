@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  The best way to reach me directly is via email, no matter the reason. However, feel free to connect with me via LinkedIn.
+  The best way to reach me directly is via email, no matter the reason.<br /> However, feel free to connect with me via LinkedIn.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
