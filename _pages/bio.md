@@ -14,7 +14,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: me_n_tea.jpg
-    content_header: <strong>Introduction</strong> - Let me give you the overview while I get you a cuppa!
+    content_header: <span><h3>Introduction</h3> - Let me give you the overview while I get you a cuppa!</span>
     content: bio_personal.md
     start_open: true
     image_circular: true # crops the image to make it circular
@@ -22,7 +22,7 @@ profiles:
 
   - align: left
     image: brief_history_of_kev.jpg
-    content_header: <strong>Origin Story</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
+    content_header: <span><h3>Origin Story</h3> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*</span>
     content: bio_background.md
     start_open: false
     image_circular: true # crops the image to make it circular
