@@ -1,10 +1,11 @@
----#
+---
 layout: page
-title: Projects
+title: Projects(WIP)
 permalink: /projects/
 description: WIP
 nav: true
 nav_order: 3
+social: true
 display_categories: [Work, Personal]
 horizontal: false
 ---
