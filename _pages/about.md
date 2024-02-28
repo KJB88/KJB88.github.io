@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Decade Veteran Unity C# Developer<br /><em>Mental Health Advocate | Disability Rights Advocate<br />Compassionate and Human-First Technical Leader</em>
+subtitle: Decade-Veteran Unity C# Developer<br /><em>Mental Health Advocate | Disability Rights Advocate<br />Compassionate and Human-First Technical Leader</em>
 nav_order: 1
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
