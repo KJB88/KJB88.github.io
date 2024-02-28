@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+WIP - TESTING NEWS FUNCTIONALITY: A simple inline announcement.

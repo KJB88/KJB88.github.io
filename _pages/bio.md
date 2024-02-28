@@ -5,6 +5,8 @@ title: Personal Bio
 description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!!!
 nav: true
 nav_order: 2
+toc:
+  sidebar: left
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
