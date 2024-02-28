@@ -5,15 +5,13 @@ title: Personal Bio
 description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!!!
 nav: true
 nav_order: 2
-toc:
-  sidebar: left
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
     image: me_n_tea.jpg
-    content_header: <h1>INTRODUCTION</h1> - Let me give you the overview while I get you a cuppa!
+    content_header: <strong>INTRODUCTION</strong> - Let me give you the overview while I get you a cuppa!
     content: bio_personal.md
     start_open: true
     image_circular: true # crops the image to make it circular
@@ -21,20 +19,20 @@ profiles:
 
   - align: left
     image: brief_history_of_kev.jpg
-    content_header: <h1>ORIGIN STORY</h1> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
+    content_header: <strong>ORIGIN STORY</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
     start_open: false
     image_circular: true # crops the image to make it circular
     more_info: It's a real picture! Honest. I swear.
 
   - align: left
-    content_header: <h1>CORE VALUES</h1> - A kind word can save a life.
+    content_header: <strong>CORE VALUES</strong> - A kind word can save a life.
     content: bio_values.md
     start_open: false
 
   - align: right
     image: kev_n_the_kevs.jpg
-    content_header: <h1>COMPANIONS</h1> - What would an adventure be without a party?
+    content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
     start_open: false
@@ -42,18 +40,18 @@ profiles:
 
   - align: left
     image: the_cat_conspiracy_closeup.jpg
-    content_header: <h1>HOBBIES</h1> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
+    content_header: <strong>HOBBIES</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
     content: bio_hobbies.md
     image_circular: true # crops the image to make it circular
     start_open: false
 
   - align: left
-    content_header: <h1>DISABILITIES</h1> - Trigger warnings, but helpline numbers inside.
+    content_header: <strong>DISABILITIES</strong> - Trigger warnings, but helpline numbers inside.
     content: bio_disabilities.md
     start_open: false
 
   - align: left
-    content_header: <h1>CATS</h1> - Always save the best until last!
+    content_header: <strong>CATS</strong> - Always save the best until last!
     content: bio_cats.md
     start_open: false
 ---
