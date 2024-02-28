@@ -47,5 +47,5 @@ For a more personal biography of me and my interests, please check out my <a hre
 <br />
 Below are my professional contact options. Please feel free to reach out for anything.
 <br />
-You can also report errata on the website to me through my email if you're feeling helpful!
+(You can also report errata on the website to me through my email if you're feeling helpful!).
 </p>
