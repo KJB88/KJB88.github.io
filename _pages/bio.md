@@ -5,13 +5,15 @@ title: Personal Bio
 description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. Also, it has cat pictures!!!
 nav: true
 nav_order: 2
+toc:
+  sidebar: left
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
     image: me_n_tea.jpg
-    content_header: <strong>INTRODUCTION</strong> - Let me give you the overview while I get you a cuppa!
+    content_header: <h4>INTRODUCTION</h4> - Let me give you the overview while I get you a cuppa!
     content: bio_personal.md
     start_open: true
     image_circular: true # crops the image to make it circular
@@ -19,20 +21,20 @@ profiles:
 
   - align: left
     image: brief_history_of_kev.jpg
-    content_header: <strong>ORIGIN STORY</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
+    content_header: <h5>ORIGIN STORY</h5> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
     start_open: false
     image_circular: true # crops the image to make it circular
     more_info: It's a real picture! Honest. I swear.
 
   - align: left
-    content_header: <strong>CORE VALUES</strong> - A kind word can save a life.
+    content_header: <h3>CORE VALUES</h3> - A kind word can save a life.
     content: bio_values.md
     start_open: false
 
   - align: right
     image: kev_n_the_kevs.jpg
-    content_header: <strong>COMPANIONS</strong> - What would an adventure be without a party?
+    content_header: <h6>COMPANIONS</h6> - What would an adventure be without a party?
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
     start_open: false
