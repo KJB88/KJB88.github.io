@@ -13,7 +13,7 @@ layout: page
         {% endif %}
           <summary>
             {% assign profile_title = profile.content_header %}
-            {{ profile_title }}
+            <span>{{ profile_title }}</span>
           </summary>
           <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
             {% if profile.image %}
@@ -39,8 +39,8 @@ layout: page
               {{ content }}
             {% endif %}
           </div>
-        </details>
       {% endfor %}
+      </details>
     {% endif %}
   </article>
 </div>
