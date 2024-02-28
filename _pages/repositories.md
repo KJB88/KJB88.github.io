@@ -6,6 +6,7 @@ description: It's where I keep my code and stuff. Well, just code actually. All 
 url: https://github.com/KJB88
 nav: true
 nav_order: 4
+social: true
 ---
 
 Here is the direct link to my Github: <a href="https://github.com/KJB88">https://github.com/KJB88</a>!
