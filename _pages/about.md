@@ -29,20 +29,21 @@ social: true # includes social icons at the bottom of the page
 <b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br />
 <b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br />
 </p>
-<br />
 <p>
 <b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br />
 <b>GIT/SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br />
 <b>Proj Mgmt:</b> JIRA (5+yr), DevOps/TFS (7yr), Trello (9+yr)<br />
 <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
 </p>
-<br />
+<p>
 <strong>PROFESSIONAL BIO</strong>
 <br />
 I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up.<br />I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
-<br />
+</p>
+<p>
 You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
 <br />
 For a more personal biography of me and my interests, please check out my <a href='/bio'>Personal Bio here</a>.
 <br />
 Below are my professional contact options. Please feel free to reach out for anything.
+</p>
