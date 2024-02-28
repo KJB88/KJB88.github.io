@@ -1113,6 +1113,10 @@ nav[data-toggle="toc"] {
   width: 100%;
 }
 
+.forceinline {
+  display: inline;
+}
+
 swiper-container {
   --swiper-navigation-color: var(--global-theme-color);
   --swiper-pagination-color: var(--global-theme-color);
