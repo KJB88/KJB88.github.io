@@ -1,10 +1,8 @@
 <p>
 <br />
 <strong>Awareness & Understanding</strong>
-This section might seem weirdly personal, but I'm an open book about these subjects. Awareness is the key to understanding. This understanding cures ignorance and creates a compassionate and open environment for us to discuss and find solutions to treat, manage, support people with and ultimately, remove these horrible conditions from our society. I want to highlight some of the challenges, effects pre- and post-medication/treatment and the impact these have had on my life. I hope these short paragraphs of my own experiences with these illnesses can help to highlight the difficulty that people with disabilities can face on a daily basis.
-</p>
-<p>
-Time to discuss my three major health hurdles: Mixed Anxiety and Depressive Disorder (MADD), combined Attention Deficit and Hyperactivity Disorder (ADHD) and Crohn's Disease (that's Mr Crohns to you!).
+<br />
+This section might seem weirdly personal, but I'm an open book about these subjects. Awareness is the key to understanding. This understanding cures ignorance and creates a compassionate and open environment for us to discuss and find solutions to treat, manage, support people with and ultimately, remove these horrible conditions from our society. I want to highlight some of the challenges, effects pre- and post-medication/treatment and the impact these have had on my life. I hope these short paragraphs of my own experiences with these illnesses can help to highlight the difficulty that people with disabilities can face on a daily basis. Time to discuss my three major health hurdles: Mixed Anxiety and Depressive Disorder (MADD), combined Attention Deficit and Hyperactivity Disorder (ADHD) and Crohn's Disease (that's Mr Crohns to you!).
 </p>
 <p>
 If you're struggling with your mental health, please reach out to a mental health service as soon as you can. You deserve better. For UK-based mental health concerns, you can find all the useful numbers here:
@@ -13,6 +11,7 @@ If you're struggling with your mental health, please reach out to a mental healt
 </p>
 <p>
 <strong>Crohn's Disease</strong>
+<br />
 So, Crohn's Disease. My life-long partner through life. It's an autoimmune disease that makes your own immune system attack your gastrointestinal (GI) tract, very often triggered by eating regular food. Usually impacting the lower GI tract like the intestines, it can cause massive inflammation in there, causing significant pain and discomfort. Not to mention the other very unfun symptoms like requiring the loo frequently (to put it politely), constant fatigue and exhaustion, inability to sleep and malnutrition. Now, malnutrition might not sound like a big deal, but having it from a young age means that your body doesn't have enough useful materials to grow properly. Your brain will hog most of it first and the rest of you gets the scraps. If those scraps aren't enough, you'll end up with abnormalities in growth such as weaker bones, smaller body frame, etc. These 'side effects' will spawn additional issues.
 </p>
 <p>
@@ -32,6 +31,7 @@ You can find the official Crohn's & Colitis UK charity here, if you wish to aid 
 </p>
 <p>
 <strong>Combined Attention Deficit and Hyperactivity Disorder (ADHD)</strong>
+<br />
 ADHD is hard to explain. Many people think it's a fidgeting, loud or disruptive child, but that's only a small part of it. Many ADHD sufferers don't display the hyperactivity portion or display it in very muted ways. ADHD has two components to it: Inattentive (this is the AD part of the ADHD) and Hyperactive-Impulsive (this is the H part of it). You can have one or the other, or both as a combined presentation. There's so many symptoms that differ across sufferers in both presence and severity that I don't even know where to start. Oh, actually, let's just go through how it affected me!
 </p>
 <p>
@@ -51,6 +51,7 @@ You can find the the ADHD Foundation Neurodiversity Charity website here, if you
 </p>
 <p>
 <strong>Anxiety</strong>
+<br />
 Everyone has anxiety. But people with clinical anxiety have far too much of it. It impacts being able to take action easily. A person may overthink to the point of breakdown or they might overthink to the point that they convince themselves they can't do the action or try to avoid the action. This can even happen with simple, daily tasks like washing the dishes or cleaning the house. This results in missing opportunities in life, not living life to the fullest and becoming isolated and sheltered from the world due to fear.
 </p>
 <p>
@@ -70,6 +71,7 @@ You can find the Anxiety UK Charity website here, if you wish to aid research an
 </p>
 <p>
 <strong>Depression</strong>
+<br />
 Depression is a sinister condition. It sucks the joy out of your life. It hides your passion, desires and happiness under a thick black blanket that is far too heavy to lift right now. You find no enjoyment in your hobbies, your social life or your work anymore. You struggle to find the motivation to even get out of bed. It makes you question your worth as a professional, as a friend/partner and most worryingly, your worth as a person. This is what can drive people over the edge where we lose them forever.
 </p>
 <p>
