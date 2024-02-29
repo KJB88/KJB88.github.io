@@ -6,15 +6,13 @@ description: Here you'll find my personal life, experiences and hobbies. It's mo
 nav: true
 nav_order: 2
 social: true # includes social icons at the bottom of the page
-toc:
-  sidebar: left
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
     image: me_n_tea.jpg
-    content_header: <div><h3 style="display:inline;">Introduction - Let me give you the overview while I get you a cuppa!</h3></div>
+    content_header: <strong>Introduction</strong> - Let me give you the overview while I get you a cuppa!
     content: bio_personal.md
     start_open: true
     image_circular: true # crops the image to make it circular
