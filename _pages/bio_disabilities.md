@@ -1,17 +1,17 @@
 <p>
-<br />
+<br>
 <strong>Awareness & Understanding</strong>
-<br />
+<br>
 This section might seem weirdly personal, but I'm an open book about these subjects. Awareness is the key to understanding. This understanding cures ignorance and creates a compassionate and open environment for us to discuss and find solutions to treat, manage, support people with and ultimately, remove these horrible conditions from our society. I want to highlight some of the challenges, effects pre- and post-medication/treatment and the impact these have had on my life. I hope these short paragraphs of my own experiences with these illnesses can help to highlight the difficulty that people with disabilities can face on a daily basis. Time to discuss my three major health hurdles: Mixed Anxiety and Depressive Disorder (MADD), combined Attention Deficit and Hyperactivity Disorder (ADHD) and Crohn's Disease (that's Mr Crohns to you!).
 </p>
 <p>
 If you're struggling with your mental health, please reach out to a mental health service as soon as you can. You deserve better. For UK-based mental health concerns, you can find all the useful numbers here:
-<br />
+<br>
 <a href="https://www.mind.org.uk/information-support/guides-to-support-and-services/crisis-services/helplines-listening-services/">https://www.mind.org.uk/information-support/guides-to-support-and-services/crisis-services/helplines-listening-services/</a>!
 </p>
 <p>
 <strong>Crohn's Disease</strong>
-<br />
+<br>
 So, Crohn's Disease. My life-long partner through life. It's an autoimmune disease that makes your own immune system attack your gastrointestinal (GI) tract, very often triggered by eating regular food. Usually impacting the lower GI tract like the intestines, it can cause massive inflammation in there, causing significant pain and discomfort. Not to mention the other very unfun symptoms like requiring the loo frequently (to put it politely), constant fatigue and exhaustion, inability to sleep and malnutrition. Now, malnutrition might not sound like a big deal, but having it from a young age means that your body doesn't have enough useful materials to grow properly. Your brain will hog most of it first and the rest of you gets the scraps. If those scraps aren't enough, you'll end up with abnormalities in growth such as weaker bones, smaller body frame, etc. These 'side effects' will spawn additional issues.
 </p>
 <p>
@@ -22,16 +22,16 @@ Now as an adult, I still get regualar discomfort and I definitely need the loo a
 </p>
 <p>
 For more information on Crohn's Disease, see the NHS website here:
-<br />
+<br>
 <a href="https://www.nhs.uk/conditions/crohns-disease/">https://www.nhs.uk/conditions/crohns-disease/</a>!
-<br />
+<br>
 You can find the official Crohn's & Colitis UK charity here, if you wish to aid research and support for indivdiuals:
-<br />
+<br>
 <a href="https://crohnsandcolitis.org.uk/">https://crohnsandcolitis.org.uk/</a>!
 </p>
 <p>
 <strong>Combined Attention Deficit and Hyperactivity Disorder (ADHD)</strong>
-<br />
+<br>
 ADHD is hard to explain. Many people think it's a fidgeting, loud or disruptive child, but that's only a small part of it. Many ADHD sufferers don't display the hyperactivity portion or display it in very muted ways. ADHD has two components to it: Inattentive (this is the AD part of the ADHD) and Hyperactive-Impulsive (this is the H part of it). You can have one or the other, or both as a combined presentation. There's so many symptoms that differ across sufferers in both presence and severity that I don't even know where to start. Oh, actually, let's just go through how it affected me!
 </p>
 <p>
@@ -42,16 +42,16 @@ Shortly after my diagnosis and tests to ensure I was compatible with any medicat
 </p>
 <p>
 For more information on ADHD, see the NHS website here:
-<br />
+<br>
 <a href="https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/">https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/</a>!
-<br />
+<br>
 You can find the the ADHD Foundation Neurodiversity Charity website here, if you wish to aid research, supporting individuals and education/awareness:
-<br />
+<br>
 <a href="https://www.adhdfoundation.org.uk/">https://www.adhdfoundation.org.uk/</a>!
 </p>
 <p>
 <strong>Anxiety</strong>
-<br />
+<br>
 Everyone has anxiety. But people with clinical anxiety have far too much of it. It impacts being able to take action easily. A person may overthink to the point of breakdown or they might overthink to the point that they convince themselves they can't do the action or try to avoid the action. This can even happen with simple, daily tasks like washing the dishes or cleaning the house. This results in missing opportunities in life, not living life to the fullest and becoming isolated and sheltered from the world due to fear.
 </p>
 <p>
@@ -62,16 +62,16 @@ Prior to my ADHD medication, I was on an anti-depressant medication. This didn't
 </p>
 <p>
 For more information on General Anxiety (other flavours of Anxiety are available on the NHS website too), see the NHS website here:
-<br />
+<br>
 <a href="https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/">https://www.nhs.uk/mental-health/conditions/generalised-anxiety-disorder/</a>!
-<br />
+<br>
 You can find the Anxiety UK Charity website here, if you wish to aid research and supporting indivdiduals with Anxiety:
-<br />
+<br>
 <a href="https://www.anxietyuk.org.uk/">https://www.anxietyuk.org.uk/</a>!
 </p>
 <p>
 <strong>Depression</strong>
-<br />
+<br>
 Depression is a sinister condition. It sucks the joy out of your life. It hides your passion, desires and happiness under a thick black blanket that is far too heavy to lift right now. You find no enjoyment in your hobbies, your social life or your work anymore. You struggle to find the motivation to even get out of bed. It makes you question your worth as a professional, as a friend/partner and most worryingly, your worth as a person. This is what can drive people over the edge where we lose them forever.
 </p>
 <p>
@@ -82,10 +82,10 @@ When I finally got a diagnosis for ADHD, got medicated and I approached that per
 </p>
 <p>
 For more information on Depression, see the NHS website here:
-<br />
+<br>
 <a href="https://www.nhs.uk/mental-health/conditions/depression-in-adults/">https://www.nhs.uk/mental-health/conditions/depression-in-adults/</a>!
-<br />
+<br>
 You can find the Mind UK Charity website here, if you wish to aid research and supporting indivdiduals with Depression:
-<br />
+<br>
 <a href="https://www.mind.org.uk/">https://www.mind.org.uk/</a>!
 </p>

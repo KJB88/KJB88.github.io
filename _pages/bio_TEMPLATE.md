@@ -1,17 +1,17 @@
 <p>
-<br />
+<br>
 <strong>TEMPLATE 1</strong>
-<br />
+<br>
 </p>
 <p>
 <strong>TEMPLATE 2</strong>
-<br />
+<br>
 </p>
 <p>
 <strong>TEMPLATE 3</strong>
-<br />
+<br>
 </p>
 <p>
 <strong>TEMPLATE 4</strong>
-<br />
+<br>
 </p>

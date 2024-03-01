@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Decade-Veteran Unity C# Developer<br /><em>Mental Health Advocate | Disability Rights Advocate<br />Compassionate and Human-First Technical Leader</em>
+subtitle: Decade-Veteran Unity C# Developer<br><em>Mental Health Advocate | Disability Rights Advocate<br>Compassionate and Human-First Technical Leader</em>
 nav_order: 1
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -22,59 +22,59 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-<strong>Skills</strong><br />
-<b>Languages:</b> C# (9+yr), C++(4yr), GDScript(<1y)<br />
+<strong>Skills</strong><br>
+<b>Languages:</b> C# (9+yr), C++(4yr), GDScript(<1y)<br>
 <b>Dev:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
-<b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop, XCode<br />
-<b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br />
-<b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br />
+<b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop, XCode<br>
+<b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
+<b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
 </p>
 <p>
-<b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br />
-<b>GIT/SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br />
-<b>Proj Mgmt:</b> JIRA (5+yr), DevOps/TFS (7yr), Trello (9+yr)<br />
+<b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
+<b>GIT/SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
+<b>Proj Mgmt:</b> JIRA (5+yr), DevOps/TFS (7yr), Trello (9+yr)<br>
 <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
 </p>
 <p>
 <strong>Technical Profile</strong>
-<br />
+<br>
 I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
 </p>
 <p>
 <strong>Working Background</strong>
 <br>
-Senior Unity Engineer <br>
-GN3RA, Remote Start-up Games Studio (UK) <br>
-[02/2023 - 01/2024]
+<b>Senior Unity Engineer</b> <br>
+GN3RA, Remote Start-up Games Studio (UK)<br>
+[Feb 2023 - Jan 2024]
 </p>
 <p>
-Technical Lead Digitalisation Specialist (Unity/C#) <br>
+<b>Technical Lead Digitalisation Specialist (Unity/C#)</b><br>
 Siemens Gamesa Renewable Energy, Hull, UK. <br>
-[06/2020 - 02/2023]
+[June 2020 - Feb 2023]
 </p>
 <p>
-Unity C# Developer <br>
+<b>Unity C# Developer</b><br>
 The Logistics Institute, University of Hull, Hull, UK. <br>
-[08/2017 - 05/2020] <br>
+[Aug 2017 - May 2020] <br>
 </p>
 <p>
 <strong>Academic Background</strong>
-<br />
-MSc Computer Science for Games Development - Expected 2:1, Extended/Withdrew for high-value work opportunity.
-University of Hull, Hull, UK.
+<br>
+MSc Computer Science for Games Development - Expected 2:1, Extended/Withdrew for high-value work opportunity. <br>
+University of Hull, Hull, UK. <br>
 [2017 – 2020]
 </p>
 <p>
-BSc Computer Science with Games Development (with Foundation Year) - First Class
-University of Hull, Hull, UK.
+BSc Computer Science with Games Development (with Foundation Year) - First Class <br>
+University of Hull, Hull, UK. <br>
 [2013 – 2017]
 </p>
 <p>
 You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
-<br />
+<br>
 For a more personal biography of me and my interests, please check out my <a href='/bio'>Personal Bio here</a>.
-<br />
+<br>
 Below are my professional contact options. Please feel free to reach out for anything.
-<br />
+<br>
 (You can also report errata on the website to me through my email if you're feeling helpful!).
 </p>

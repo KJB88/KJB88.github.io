@@ -31,7 +31,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 <h2><u>Long Version</u></h2>
-<br />
 <h3>Overview</h3>
 The Simulation project was a 'feather-in-my-hat' project. It was massive in scope and a chance to really prove myself as a Technical Leader very early in my career.
 </p>
