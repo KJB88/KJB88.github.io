@@ -49,7 +49,6 @@ I have 10 years of Unity C# development experience over a range of different sec
 [Feb 2023 - Jan 2024]<br>
 GN3RA, Remote Start-up Games Studio (UK).
 </p>
-<br>
 <p>
 <b>Technical Lead & Unity Digitalisation Specialist (Unity/C#)</b><br>
 [June 2020 - Feb 2023] <br>
