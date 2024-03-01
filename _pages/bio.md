@@ -16,7 +16,8 @@ profiles:
     content: bio_personal.md
     #start_open: true
     image_circular: true # crops the image to make it circular
-    more_info: Cuppas ready! You ready for the story of Kev yet?
+    more_info: >
+    Cuppas ready! You ready for the story of Kev yet?
 
   - align: left
     image: brief_history_of_kev.jpg
@@ -24,7 +25,8 @@ profiles:
     content: bio_background.md
     #start_open: false
     image_circular: true # crops the image to make it circular
-    more_info: It's a real picture! Honest. I swear.
+    more_info: >
+    It's a real picture! Honest. I swear.
 
   - align: left
     content_header: <strong>Core Values</strong> - A kind word can save a life.
@@ -37,7 +39,8 @@ profiles:
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
     #start_open: false
-    more_info: Any excuse for a meme, really.
+    more_info: >
+    Any excuse for a meme, really.
 
   - align: left
     image: the_cat_conspiracy_closeup.jpg
