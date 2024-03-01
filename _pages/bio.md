@@ -4,7 +4,7 @@ permalink: /bio/
 title: Personal Bio
 description: Here you'll find my personal life, experiences and hobbies. It's mostly guff, but a journey travelled is a story waiting to be told. <br>Also, it has cat pictures!
 nav: true
-nav_order: 2
+nav_order: 3
 social: true # includes social icons at the bottom of the page
 
 profiles:

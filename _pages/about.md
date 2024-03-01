@@ -19,13 +19,14 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 ---
 
 <p>
-You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a> (WIP).
+You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a> .
 </p>
 <p>
-<h4>Skills</h4>
+<strong><u>Skills</u></strong><br>
 <b>Languages:</b> C# (9+yr), C++(4yr), GDScript(<1y)<br>
 <b>Dev:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
 <b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop, XCode<br>
@@ -39,12 +40,13 @@ You can find my CV <a href="/cv">here</a> and my project repos <a href="/reposit
 <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
 </p>
 <p>
-<h4>Technical Profile</h4>
+<strong><u>Technical Profile</u></strong>
+<br>
 I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
 </p>
-
 <p>
-<h4>Working Background</h4>
+<strong><u>Working Background</u></strong>
+<br>
 <b>Senior Unity Engineer</b> <br>
 [Feb 2023 - Jan 2024]<br>
 GN3RA, Remote Start-up Games Studio (UK).
@@ -60,7 +62,8 @@ Siemens Gamesa Renewable Energy, Hull, UK.
 The Logistics Institute, University of Hull, Hull, UK.
 </p>
 <p>
-<h4>Academic Background</h4>
+<strong><u>Academic Background</u></strong>
+<br>
 <b>MSc Computer Science for Games Development</b> - Expected 2:1, Extended/Withdrew for high-value work opportunity. <br>
 [2017 – 2020]<br>
 University of Hull, Hull, UK.
@@ -71,7 +74,8 @@ University of Hull, Hull, UK.
 University of Hull, Hull, UK.
 </p>
 <p>
-<h4>Contact & Personal</h4>
+<strong><u>More Info</u></strong>
+<br>
 For a more personal biography of me and my interests, please check out my <a href='/bio'>Personal Bio here</a>.
 <br>
 Below are my professional contact options. Please feel free to reach out for anything.
