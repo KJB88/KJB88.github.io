@@ -43,12 +43,13 @@ You can find my CV <a href="/cv">here</a> and my project repos <a href="/reposit
 I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
 </p>
 
-<h4>Working Background</h4>
 <p>
+<h4>Working Background</h4>
 <b>Senior Unity Engineer</b> <br>
 [Feb 2023 - Jan 2024]<br>
-GN3RA, Remote Start-up Games Studio (UK).<br>
+GN3RA, Remote Start-up Games Studio (UK).
 </p>
+<br>
 <p>
 <b>Technical Lead & Unity Digitalisation Specialist (Unity/C#)</b><br>
 [June 2020 - Feb 2023] <br>
