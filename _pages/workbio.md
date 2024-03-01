@@ -1,6 +1,6 @@
----
+---#
 layout: profiles
-permalink: /workhistory/
+permalink: /workbio/
 title: Work History
 description: My work history across the years
 nav: true
