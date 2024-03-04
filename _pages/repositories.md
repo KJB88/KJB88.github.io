@@ -42,6 +42,7 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 ## General Repos
 
 {% if site.data.repositories.github_repos %}
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}
@@ -54,16 +55,10 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 ## A Game in a Day Repos
 
 {% if site.data.repositories.gameinaday_repos %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-    <table style="width: 100%">
-      <tr>
-        <th>Repo</th>
-      <tr/>
-      {% for repo in site.data.repositories.gameinaday_repos %}
-        <tr>
-          <th>{% include repository/repo.liquid repository=repo %}</th>
-        </tr>
-      {% endfor %}
-    </table>
-  </div>
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.gameinaday_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
 {% endif %}
