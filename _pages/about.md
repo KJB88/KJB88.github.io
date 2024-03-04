@@ -22,9 +22,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-<em>Mental Health Advocate | Disability Rights Advocate<br>
-Compassionate and Human-First Technical Leader</em><br>
-You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a> .
+Mental Health Awareness & Disability Rights Advocate<br>
+Compassionate and Human-First Technical Leader<br>
+</p>
+<p>
+You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
 </p>
 <p>
 <strong><u>Skills</u></strong><br>
