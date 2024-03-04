@@ -30,10 +30,10 @@ You can find my CV <a href="/cv">here</a> and my project repos <a href="/reposit
 </p>
 <p>
 <strong><u>Skills</u></strong><br>
-<b>Languages:</b> C# (9+yr), C++(4yr), GDScript(<1y)<br>
+<b>Languages:</b> C# (9+yr), C++ (4yr), GDScript (<1y)<br>
 <b>Dev:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
 <b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop, XCode<br>
-<b>Platforms:</b> PC/Mac, Android/iOS(AR), Oculus(VR), HoloLens(XR/MR)<br>
+<b>Platforms:</b> PC/Mac, Android/iOS (AR), Oculus (VR), HoloLens (XR/MR)<br>
 <b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
 </p>
 <p>
