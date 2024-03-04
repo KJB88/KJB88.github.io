@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Decade-Veteran Unity C# Developer<br><em>Mental Health Advocate | Disability Rights Advocate<br>Compassionate and Human-First Technical Leader</em>
+subtitle: Decade-Veteran Unity C# Developer
 nav_order: 1
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -22,6 +22,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
+<em>Mental Health Advocate | Disability Rights Advocate<br>
+Compassionate and Human-First Technical Leader</em><br>
 You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a> .
 </p>
 <p>
