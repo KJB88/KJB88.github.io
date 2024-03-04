@@ -57,8 +57,17 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 {% if site.data.repositories.gameinaday_repos %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.gameinaday_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
+  <table style="width: 100%">
+    <tr>
+      <th>Name</th>
+      <th>Repo</th>
+    <tr/>
+      {% for project in site.data.repositories.gameinaday_repos %}
+        <tr>
+          <th>{% project.date %}</th>
+          <th>{% include repository/repo.liquid repository=project.repo %}</th>
+        </tr>
+      {% endfor %}
+    </table>
 </div>
 {% endif %}
