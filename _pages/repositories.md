@@ -50,6 +50,8 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 </div>
 {% endif %}
 
+---
+
 ## 'a Game in a Day' Repos
 
 {% if site.data.repositories.gameinaday_repos %}
