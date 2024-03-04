@@ -21,7 +21,7 @@ I was personally headhunted by the Siemens Gamesa Renewable Energy (SGRE) Hull P
 <li>Core Unity/C# Developer throughout lifecycle</li>
 <li>Technical Leadership for small team of Unity Developers.</li>
 <li>Implement initial Project Management suite and Tech-Stack.</li>
-<li>Educate the company on the usage of the technology and project as well as advocate for how it can further meet business requirements and improve industrial processes.
+<li>Educate the company on the usage of the technology and project as well as advocate for how it can further meet business requirements and improve industrial processes.</li>
 <li>Co-operate and Liaise with SMEs, internal and external partners to faciliate development of the project.</li>
 </ul>
 <h5>Challenges</h5>
