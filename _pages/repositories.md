@@ -44,9 +44,10 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 {% if site.data.repositories.github_repos %}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
     {% for flavour in site.data.repositories.github_repos %}
+      <h4> {% flavour %} </h4>
       <table style="width: 100%">
         <tr>
-          <th>Name</th>
+          <th>Date</th>
           <th>Repo</th>
         <tr/>
         {% for project in flavour %}
