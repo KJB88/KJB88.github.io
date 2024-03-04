@@ -49,3 +49,14 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
   {% endfor %}
 </div>
 {% endif %}
+
+## 'a Game in a Day' Repos
+
+{% if site.data.repositories.gameinaday_repos %}
+
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.gameinaday_repos %}
+    {% include repository/repo.liquid repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
