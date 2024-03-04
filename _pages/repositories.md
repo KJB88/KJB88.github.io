@@ -39,35 +39,23 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 {% endif %}
 {% endif %}
 
-## General
+## Repos
 
 {% if site.data.repositories.github_repos %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
-
----
-
-## 'a Game in a Day'
-
-{% if site.data.repositories.gameinaday_repos %}
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  <table style="width: 100%">
-    <tr>
-      <th>Name</th>
-      <th>Repo</th>
-    <tr/>
-      {% for project in site.data.repositories.gameinaday_repos %}
+  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+    {% for flavour in site.data.repositories.github_repos %}
+      <table style="width: 100%">
         <tr>
-          <th>{% project.date %}</th>
-          <th>{% include repository/repo.liquid repository=project.repo %}</th>
-        </tr>
-      {% endfor %}
-    </table>
-</div>
+          <th>Name</th>
+          <th>Repo</th>
+        <tr/>
+        {% for project in flavour %}
+          <tr>
+            <th>{% project.date %}</th>
+            <th>{% include repository/repo.liquid repository=project.repo %}</th>
+          </tr>
+        {% endfor %}
+      </table>
+    {% endfor %}
+  </div>
 {% endif %}
