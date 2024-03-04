@@ -11,7 +11,7 @@ social: true
 
 Here is the direct link to my Github: <a href="https://github.com/KJB88">https://github.com/KJB88</a>!
 
-## GitHub Stats
+## Stats
 
 {% if site.data.repositories.github_users %}
 
@@ -39,7 +39,7 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 {% endif %}
 {% endif %}
 
-## GitHub Repos
+## General
 
 {% if site.data.repositories.github_repos %}
 
@@ -52,7 +52,7 @@ Here is the direct link to my Github: <a href="https://github.com/KJB88">https:/
 
 ---
 
-## 'a Game in a Day' Repos
+## 'a Game in a Day'
 
 {% if site.data.repositories.gameinaday_repos %}
 
