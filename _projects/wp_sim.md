@@ -26,7 +26,7 @@ I was personally headhunted by the Siemens Gamesa Renewable Energy (SGRE) Hull P
 </ul>
 <h5>Challenges</h5>
 <ul>
-<li>Designing a large yet scalable commercial solution with only 1.5years experience in development.</li>
+<li>Designing a large yet scalable commercial solution with only 2 years of contractor experience in development.</li>
 <li>Taking on a Leadership role with no prior experience.</li>
 <li>Managing a software project (and its supporting stack) with no prior professional experience.</li>
 <li>Operating within a Manufacturing Facility that doesn't have specific Software Protocols/Environments.</li>
@@ -52,8 +52,8 @@ I was personally headhunted by the Siemens Gamesa Renewable Energy (SGRE) Hull P
 <hr>
 <p>
 <h2><u>Long Version</u></h2>
-<h3>Overview</h3>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<h3>Introduction</h3>
+During my time as a student and onwards after graduation, I did contract work for clients with The Logistics Institute branch of the University of Hull acting as the umbrella entity. This is where I was introduced to Siemens Gamesa Renewable Energy (SGRE) as I was put to task to develop a piece of simulation software for them. Towards the end of this contract, they offered an opportunity of lifetime; to design and develop simulation solutions in-house for them and build a team and tech-stack around that. I couldn't say no as a graduate with just over 2 years experience. 
 </p>
 <p>
 <h3>The Company</h3>
