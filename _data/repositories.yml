@@ -8,8 +8,12 @@ github_repos:
 
 gameinaday_repos:
   project:
-    date: 02-03-2024
-    repo: - kjb88/fishing-a-game-in-a-day-02-03-2024
+    date:
+      02-03-2024
+    repo:
+      - kjb88/fishing-a-game-in-a-day-02-03-2024
   project:
-    date: 03-03-2024
-    repo: - kjb88/farming-a-game-in-a-day-03-03-2024
+    date:
+      03-03-2024
+    repo:
+      - kjb88/farming-a-game-in-a-day-03-03-2024
