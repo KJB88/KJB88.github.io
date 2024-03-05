@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unity Industrial Simulation
-description: Innovative simulation powered by Unity. Driven by real-world data & facilitating business decisions.
+description: Innovative simulation powered by Unity.<br> Driven by real-world data & facilitating business decisions.
 img:
 importance: 1
 category: Work
@@ -14,11 +14,11 @@ toc:
   <b>Technical details of the project are under NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b>
 </p>
 <p>
-  <h3>Introduction</h3>
+  <h5>Introduction</h5>
     I was personally headhunted by a multi-national energy company to join their new simulation department as a specialist in Unity. I was hired to design and develop a solution utilizing Unity (games tech.) to meet their evolving business demands in the new age of real-time graphics and data visualization. Throughout my time there, I primarily developed their in-house simulation software. I started with designing and building a proof-of-concept. Upon sign off of this deliverable, the main project was underway. I interviewed, hired and built a team of talented developers to begin full development. During this time, I was in a Lead/Senior Developer role, leading and supporting my team as well as being hands-on with the technical implementation. Throughout the development lifecycle, I was handling day-to-day leadership duties, project management and working with partners (and other departments) to build a content pipeline and management system to optimize and better facilitate how we pipe in assets and data into the simulation.
 </p>
 <p>
-  <h3>The Project</h3>
+  <h5>The Project</h5>
     The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various department, physical specialist machines and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays,sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output.
 </p>
 
