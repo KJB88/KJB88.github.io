@@ -11,28 +11,28 @@ toc:
 ---
 
 <p>
-  <b>Technical details of the project are under NDA and are IP of Siemens Gamesa Renewable Energy and as such, I cannot disclose any specifics about implementation.</b>
+  <b>Technical details of the project are under NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b>
 </p>
 <p>
-  <h2><u>Short Version</u></h2>
-    I was personally headhunted by the Siemens Gamesa Renewable Energy (SGRE) Hull Plant to join their new Digitalisation Department as a Digitalisation Specialist (original title was Factory Simulation Expert). I was hired to design and develop a solution utilizing Unity (games tech.) to meet their evolving business demands in the new age of real-time graphics and data visualization. Throughout my time there, I primarily developed their in-house simulation software. I started with designing and building a proof-of-concept. Upon sign off of this deliverable, the main project was underway. I interviewed, hired and built a team of talented developers to begin full development. During this time, I was in a Lead/Senior Digitalisation Specialist role, leading and supporting my team as well as being hands-on with the technical implementation. Throughout the development lifecycle, I was handling day-to-day leadership duties, project management and working with partners (and other departments) to build a content pipeline and management system to optimize and better facilitate how we pipe in assets and data into the simulation.
+  <h2><u>Introduction</u></h2>
+    I was personally headhunted by a multi-national energy company to join their new simulation department as a specialist in Unity. I was hired to design and develop a solution utilizing Unity (games tech.) to meet their evolving business demands in the new age of real-time graphics and data visualization. Throughout my time there, I primarily developed their in-house simulation software. I started with designing and building a proof-of-concept. Upon sign off of this deliverable, the main project was underway. I interviewed, hired and built a team of talented developers to begin full development. During this time, I was in a Lead/Senior Developer role, leading and supporting my team as well as being hands-on with the technical implementation. Throughout the development lifecycle, I was handling day-to-day leadership duties, project management and working with partners (and other departments) to build a content pipeline and management system to optimize and better facilitate how we pipe in assets and data into the simulation.
 </p>
 <p>
   <h5>Responsibilities</h5>
   <ul>
-    <li>Primary Systems Architect for Large Scalable System.</li>
-    <li>Core Unity/C# Developer throughout lifecycle</li>
-    <li>Technical Leadership for small team of Unity Developers.</li>
-    <li>Implement initial Project Management suite and Tech-Stack.</li>
+    <li>Be the primary Systems Architect for the simulation application.</li>
+    <li>Be the core Unity/C# developer on the project, driving technical design and implementation.</li>
+    <li>Perform Technical Leadership duties for a small team of Unity Developers.</li>
+    <li>Install and configure relevant tooling for the project; project management, code repositories, workflow, define relevant libraries, etc.</li>
     <li>Educate the company on the usage of the technology and project as well as advocate for how it can further meet business requirements and improve industrial processes.</li>
-    <li>Co-operate and Liaise with SMEs, internal and external partners to faciliate development of the project.</li>
+    <li>Co-operate and Liaise with SMEs, internal and external partners to faciliate content/asset creation for the project.</li>
   </ul>
 <h5>Challenges</h5>
   <ul>
     <li>Designing a large yet scalable commercial solution with only 2 years of contractor experience in development.</li>
     <li>Taking on a Leadership role with no prior experience.</li>
     <li>Managing a software project (and its supporting stack) with no prior professional experience.</li>
-  <li>Operating within a Manufacturing Facility that doesn't have specific Software Protocols/Environments.</li>
+    <li>Operating within an organisation that doesn't have an understanding of software development methodology.</li>
     <li>Facilitating a Co-operative approach between other business units/entities that have their own timelines.</li>
   </ul>
 <h5>Actions</h5>
@@ -53,24 +53,10 @@ toc:
   </ul>
 </p>
 <hr>
-<p>
-  <h2><u>Long Version</u></h2>
-    <h3>Introduction</h3>
-      During my time as a student and onwards after graduation, I did contract work for clients with The Logistics Institute branch of the University of Hull acting as the umbrella entity. This is where I was introduced to Siemens Gamesa Renewable Energy (SGRE) as I was put to task to develop a piece of simulation software for them. Towards the end of this contract, they offered an opportunity of lifetime; to design and develop simulation solutions in-house for them and build a team and tech-stack around that. I couldn't say no as a graduate with just over 2 years experience. 
-</p>
-<p>
-  <h3>The Company</h3>
-    SGRE is a renewable/green energy company. They manufacture wind turbines to harvest the wind and produce clean electricity. They have both an Onshore and Offshore division. My role was within Offshore, working at the Hull Plant. 
-</p>
-
-<p>
-  <h3>Core Responsibilities</h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
 
 <p>
   <h3>The Project</h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    The Project itself was 
 </p>
 
 <p>
