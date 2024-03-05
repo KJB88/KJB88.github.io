@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-<p>
+<p style="text-align:center">
   <b>Technical details of the project are under NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b>
 </p>
 <p>
@@ -52,11 +52,10 @@ toc:
     <li><b>Partners:</b> Partners enjoyed working with me. With their co-operation, was able to implement a strong and reliable pipeline for content and data, with reduced busywork/paperwork on their end. Their feedback helped to reach an optimal balance between departments.</li>
   </ul>
 </p>
-<hr>
 
 <p>
   <h3>The Project</h3>
-    The Project itself was 
+    The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various department, physical specialist machines and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays, sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output.
 </p>
 
 <p>
