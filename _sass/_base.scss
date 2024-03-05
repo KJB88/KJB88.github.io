@@ -618,6 +618,7 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
+        text-align: center;
         color: var(--global-theme-color);
       }
     }
@@ -627,6 +628,10 @@ footer.sticky-bottom {
     img {
       width: 100%;
     }
+  }
+  
+  .card-text {
+    text-align: center;
   }
 
   .card-item {

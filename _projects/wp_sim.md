@@ -11,7 +11,7 @@ toc:
 ---
 
 <p style="text-align:center">
-  <b>Technical details of the project are under NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b>
+  <b>Technical details of the project are subject to NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b>
 </p>
 <p>
   <h5>Introduction</h5>
@@ -32,7 +32,7 @@ toc:
     <li>Educate the company on the usage of the technology and project as well as advocate for how it can further meet business requirements and improve industrial processes.</li>
     <li>Co-operate and Liaise with SMEs, internal and external partners to faciliate content/asset creation for the project.</li>
   </ul>
-<h5>Challenges</h5>
+  <h5>Challenges</h5>
   <ul>
     <li>Designing a large yet scalable commercial solution with only 2 years of contractor experience in development.</li>
     <li>Taking on a Leadership role with no prior experience.</li>
@@ -40,7 +40,7 @@ toc:
     <li>Operating within an organisation that doesn't have an understanding of software development methodology.</li>
     <li>Facilitating a Co-operative approach between other business units/entities that have their own timelines.</li>
   </ul>
-<h5>Actions</h5>
+  <h5>Actions</h5>
   <ul>
     <li><b>Designing:</b> Approached requirements cautiously and clarified any and all ambiguity. Designed solution with modularity as primary concern. Performed research on and off work-hours to ensure best approaches. Regularly consulted relevant SMEs to ensure accuracy.</li>
     <li><b>Leadership:</b> Sought out advice from other proven leaders in my professional career. Regularly reflected on my decisions with a business-lens and a human-focused lens. Reached out to my line manager regarding leadership education and training.</li>
@@ -58,11 +58,13 @@ toc:
   </ul>
   <h5>Achievements</h5>
   <ul>
-  <li></li>
+    <li>Became an exceptional technical leader with a focus on both professional and personal support and facilitating my team to do their best work.</li>
+    <li>Became very experienced with a wide range of project management tools and configuring required technical resources to produce a meaningful and efficient tech-stack.</li>
+    <li>Delivered a high-impact, large-scale project that directly drove the direction of business decision-making.</li>
+    <li></li>
   </ul>
   <p>
-    <h5>Lessons Learned</h5>
+    <h5>Retrospective</h5>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
   </p>
 </p>
-
