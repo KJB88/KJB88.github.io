@@ -18,7 +18,9 @@ $(document).ready(function () {
     });
     var navSelector = "#toc-sidebar";
     var $myNav = $(navSelector);
-    Toc.init($myNav);
+    Toc.init({
+      $nav: $myNav
+    });
     $("body").scrollspy({
       target: navSelector,
     });
