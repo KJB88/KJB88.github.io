@@ -20,7 +20,7 @@ $(document).ready(function () {
     var $myNav = $(navSelector);
     Toc.init({
       $nav: $("#myNav"),
-      $scope: 'h1, h2, h3, h4, h5, h6',
+      $scope: "h1, h2, h3, h4, h5, h6",
     });
     $("body").scrollspy({
       target: navSelector,
