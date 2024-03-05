@@ -14,9 +14,14 @@ toc:
   <b>Technical details of the project are under NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b>
 </p>
 <p>
-  <h2><u>Introduction</u></h2>
+  <h3>Introduction</h3>
     I was personally headhunted by a multi-national energy company to join their new simulation department as a specialist in Unity. I was hired to design and develop a solution utilizing Unity (games tech.) to meet their evolving business demands in the new age of real-time graphics and data visualization. Throughout my time there, I primarily developed their in-house simulation software. I started with designing and building a proof-of-concept. Upon sign off of this deliverable, the main project was underway. I interviewed, hired and built a team of talented developers to begin full development. During this time, I was in a Lead/Senior Developer role, leading and supporting my team as well as being hands-on with the technical implementation. Throughout the development lifecycle, I was handling day-to-day leadership duties, project management and working with partners (and other departments) to build a content pipeline and management system to optimize and better facilitate how we pipe in assets and data into the simulation.
 </p>
+<p>
+  <h3>The Project</h3>
+    The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various department, physical specialist machines and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays,sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output.
+</p>
+
 <p>
   <h5>Responsibilities</h5>
   <ul>
@@ -51,24 +56,13 @@ toc:
     <li><b>Operating:</b> Guidelines ensured consistent approaches throughout project. Educational training on AGILE to business made business adopt these approaches across the site, with adjustments. This facilitated high-level visibility of blockers which previously had an significant impact on the business.</li>
     <li><b>Partners:</b> Partners enjoyed working with me. With their co-operation, was able to implement a strong and reliable pipeline for content and data, with reduced busywork/paperwork on their end. Their feedback helped to reach an optimal balance between departments.</li>
   </ul>
+  <h5>Achievements</h5>
+  <ul>
+  <li></li>
+  </ul>
+  <p>
+    <h5>Lessons Learned</h5>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  </p>
 </p>
 
-<p>
-  <h3>The Project</h3>
-    The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various department, physical specialist machines and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays, sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output.
-</p>
-
-<p>
-  <h3>Results</h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
-
-<p>
-  <h3>Achievements</h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
-
-<p>
-  <h3>Lessons Learned</h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</p>
