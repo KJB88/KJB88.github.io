@@ -16,14 +16,11 @@ $(document).ready(function () {
     $(".publications h2").each(function () {
       $(this).attr("data-toc-skip", "");
     });
-    var navSelector = "#toc-sidebar"; // Selects the TOC container element using its ID
-    var $myNav = $(navSelector); // Creates a JQuery object representing the TOC container
-    Toc.init({$myNav});
-      //$nav: $("myNav"), // Specifies the TOC container using the jQuery object
-      //$scope: "h1, h2, h3, h4, h5, h6", // Defines the scope to include all header tags
-    //});
+    var navSelector = "#toc-sidebar";
+    var $myNav = $(navSelector);
+    Toc.init($myNav);
     $("body").scrollspy({
-      target: navSelector, // Sets ups Scrollspy targeting the TOC container
+      target: navSelector,
     });
   }
 
