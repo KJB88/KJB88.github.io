@@ -11,6 +11,9 @@ toc:
 ---
 
 <p>
+  <b>Technical details of the project are under NDA and are IP of Siemens Gamesa Renewable Energy and as such, I cannot disclose any specifics about implementation.</b>
+</p>
+<p>
   <h2><u>Short Version</u></h2>
     I was personally headhunted by the Siemens Gamesa Renewable Energy (SGRE) Hull Plant to join their new Digitalisation Department as a Digitalisation Specialist (original title was Factory Simulation Expert). I was hired to design and develop a solution utilizing Unity (games tech.) to meet their evolving business demands in the new age of real-time graphics and data visualization. Throughout my time there, I primarily developed their in-house simulation software. I started with designing and building a proof-of-concept. Upon sign off of this deliverable, the main project was underway. I interviewed, hired and built a team of talented developers to begin full development. During this time, I was in a Lead/Senior Digitalisation Specialist role, leading and supporting my team as well as being hands-on with the technical implementation. Throughout the development lifecycle, I was handling day-to-day leadership duties, project management and working with partners (and other departments) to build a content pipeline and management system to optimize and better facilitate how we pipe in assets and data into the simulation.
 </p>
@@ -57,7 +60,7 @@ toc:
 </p>
 <p>
   <h3>The Company</h3>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    SGRE is a renewable/green energy company. They manufacture wind turbines to harvest the wind and produce clean electricity. They have both an Onshore and Offshore division. My role was within Offshore, working at the Hull Plant. 
 </p>
 
 <p>
