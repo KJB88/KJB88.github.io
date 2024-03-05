@@ -615,10 +615,11 @@ footer.sticky-bottom {
 .projects {
   a {
     text-decoration: none;
-
+    text-align: center;
+    
     &:hover {
       .card-title {
-        text-align: center;
+
         color: var(--global-theme-color);
       }
     }
@@ -629,7 +630,7 @@ footer.sticky-bottom {
       width: 100%;
     }
   }
-  
+
   .card-text {
     text-align: center;
   }
