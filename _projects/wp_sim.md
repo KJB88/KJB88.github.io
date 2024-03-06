@@ -2,7 +2,7 @@
 layout: page
 title: Unity Industrial Simulation
 description: Innovative simulation powered by Unity.<br> Driven by real-world data & facilitating business decisions.
-img:
+img: assets/img/proj_img/wp_sim_img.jpg
 importance: 1
 category: Work
 social: true
@@ -20,7 +20,7 @@ toc:
 </p>
 <p>
   <h5>The Project</h5>
-    The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various department, physical specialist machines and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays,sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output.
+    The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various departments, specialist sensing hardware, factory PLCs and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays, sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output. All of this was done in Unity - a games development engine.
 </p>
 
 <p>
@@ -62,7 +62,7 @@ toc:
     <li>Became an exceptional technical leader with a focus on both professional and personal support and facilitating my team to do their best work.</li>
     <li>Became very experienced with a wide range of project management tools and configuring required technical resources to produce a meaningful and efficient tech-stack.</li>
     <li>Delivered a high-impact, large-scale project that directly drove the direction of business decision-making.</li>
-    <li></li>
+    <li>Revolutionised how the Company approached strategization of their industrial processes.</li>
   </ul>
   <p>
     <h5>Retrospective</h5>
