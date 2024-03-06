@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Projects(WIP)
+title: Projects
 permalink: /projects/
 description: WIP
 nav: false
 nav_order: 3
 social: true
 display_categories: [Work, Personal]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
