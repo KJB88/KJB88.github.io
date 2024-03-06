@@ -2,7 +2,7 @@
 layout: page
 title: Rapid Prototypes across VR/XR/AR/Desktop
 description: Games Development work for clients.<br> Facilitated and managed by the The Logistics Institute at the University of Hull for external clients.
-img: 
+img: assets/img/proj)ig/wp_unibiz_img.jpg
 importance: 3
 category: Work
 social: true
