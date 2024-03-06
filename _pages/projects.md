@@ -23,19 +23,19 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
-  <details open>
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
-    </details>
   </div>
   {% else %}
   <div class="grid">
+    <details open>
     {% for project in sorted_projects %}
       {% include projects.liquid %}
     {% endfor %}
+      </details>
   </div>
   {% endif %}
   {% endfor %}
