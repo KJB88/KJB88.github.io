@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GN3RA (Fashion Game / Engine SDK)
+title: GN3RA (Fashion Game & SDK)
 description: Metaverse Fashion, for users and business.<br> An interface to your virtual self, draped in impossible fashion.
 img: assets/img/proj_img/wp_fashion_img.jpg
 importance: 1
