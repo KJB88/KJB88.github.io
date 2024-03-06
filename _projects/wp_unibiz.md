@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Immersive Experiences
-description: Gamified Solutions for clients.<br> Facilitated and managed by the The Logistics Institute at the University of Hull for external clients.
+description: Gamified Solutions for clients.<br> Facilitated and managed by the The Logistics Institute at the University of Hull.
 img: assets/img/proj_img/wp_unibiz_img.jpg
 importance: 3
 category: Work
