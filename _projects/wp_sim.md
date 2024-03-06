@@ -3,7 +3,7 @@ layout: page
 title: Unity Industrial Simulation
 description: Innovative simulation powered by Unity.<br> Driven by real-world data & facilitating business decisions.
 img: assets/img/proj_img/wp_sim_img.jpg
-importance: 1
+importance: 2
 category: Work
 social: true
 toc:
