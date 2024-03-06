@@ -37,6 +37,7 @@ horizontal: false
   </div>
   {% endif %}
   {% endfor %}
+
 {% else %}
 
 <!-- Display projects without categories -->
