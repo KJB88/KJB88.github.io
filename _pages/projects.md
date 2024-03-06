@@ -15,7 +15,6 @@ horizontal: false
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
-  <details open>
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
@@ -24,11 +23,13 @@ horizontal: false
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
+  <details open>
     <div class="row row-cols-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
+    </details>
   </div>
   {% else %}
   <div class="grid">
@@ -37,7 +38,6 @@ horizontal: false
     {% endfor %}
   </div>
   {% endif %}
-  </details>
   {% endfor %}
 
 {% else %}
