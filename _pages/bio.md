@@ -11,7 +11,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: me_n_tea.jpg
+    image: pbio_img/me_n_tea.jpg
     content_header: <strong>Introduction</strong> - Let me give you the overview while I get you a cuppa!
     content: bio_personal.md
     #start_open: true
@@ -19,7 +19,7 @@ profiles:
     more_info: Cuppas ready! You ready for the story of Kev yet?
 
   - align: left
-    image: brief_history_of_kev.jpg
+    image: pbio_img/brief_history_of_kev.jpg
     content_header: <strong>Origin Story</strong> - It's time for 'A Brief History of Kev'! *<em>jazz hands</em>*
     content: bio_background.md
     #start_open: false
@@ -32,7 +32,7 @@ profiles:
     #start_open: false
 
   - align: right
-    image: kev_n_the_kevs.jpg
+    image: pbio_img/kev_n_the_kevs.jpg
     content_header: <strong>Companions</strong> - What would an adventure be without a party?
     content: bio_inspirations.md
     image_circular: false # crops the image to make it circular
@@ -40,7 +40,7 @@ profiles:
     more_info: Any excuse for a meme, really.
 
   - align: left
-    image: the_cat_conspiracy_closeup.jpg
+    image: pbio_img/the_cat_conspiracy_closeup.jpg
     content_header: <strong>Hobbies</strong> - I have to do something <em>other</em> than work, you know! Yes, <em>besides</em> sleeping...
     content: bio_hobbies.md
     image_circular: true # crops the image to make it circular

@@ -65,7 +65,9 @@ toc:
     <li>Revolutionised how the Company approached strategization of their industrial processes.</li>
   </ul>
   <p>
+    <p>
     <h5>Retrospective</h5>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    This role was really my awakening as a professional, as a leader and as a developer. Prior to this, I had worked in a rather informal setting as a contractor with work being rather ad hoc and on-demand mostly. But within this role, I was thrust into leadership and given near-complete autonomy for designing the application from the ground up. I had to quickly hit the ground running and do my best. I relied on many leaders that I had met at that point in my life, as well as my direct line manager to understand proper approaches, company red-tape and how to get 'things done' reliably and quickly. I realized that there was a great many things that a developer with only ~2 years experience doesn't know and so I did my best to seek out what I needed to do my job as efficiently as possible.
+    </p>
   </p>
 </p>

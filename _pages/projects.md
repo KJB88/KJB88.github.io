@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: WIP
+description: The list of all my notable projects. These include both personal projects and work projects.<br>Where possible, I have them separated into relevant categories.
 nav: false
 nav_order: 3
 social: true
