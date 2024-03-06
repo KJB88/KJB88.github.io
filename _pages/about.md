@@ -4,7 +4,6 @@ title: About
 permalink: /
 subtitle: Decade-Veteran Unity C# Developer
 nav_order: 1
-#<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
