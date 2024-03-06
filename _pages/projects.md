@@ -7,7 +7,7 @@ nav: false
 nav_order: 3
 social: true
 display_categories: [Work, Personal]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
