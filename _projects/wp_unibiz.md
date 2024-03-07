@@ -10,17 +10,16 @@ toc:
   sidebar: left
 ---
 
-<p style="text-align:center">
-  <b>Technical details of the project are subject to NDA and are IP of my then-employer and as such, I cannot disclose any specifics about implementation.</b><br>
-</p>
 <hr>
 <p>
   <h5>Introduction</h5>
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    During (and after) the Honours stage of my undergraduate degree in Computer Science for Games Development, I spent just over 2 years within one of the business arms of the university called The Logistics Institute. This entity works closely with business clients to help develop for and improve ('revitalize') the Humber region through technology.
+  The main area of research and development was, of course, our thriving green Wind energy sector. It was here that I learned a lot about commercial development and producing meaningful value on short timeframes. I had my hands in most kinds of technologies relating to games here; VR/XR/AR/Desktop/Mobile.
 </p>
 <p>
   <h5>The Project</h5>
-  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    So, the project was actually one of many that fell under my domain. But they were all short, quick prototype pieces and honestly, the lessons learned were uniform and
+  applicable across each project.
 </p>
 
 <p>
