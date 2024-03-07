@@ -21,8 +21,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-Mental Health Awareness & Disability Rights Advocate<br>
-Compassionate and Human-First Technical Leader<br>
+Mental Health & Disability Rights Advocate<br>
+Compassionate and <a href="https://en.wikipedia.org/wiki/Servant_leadership">Servant</a> Technical Leader<br>
 </p>
 <p>
 You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
