@@ -66,11 +66,6 @@ The Logistics Institute, University of Hull, Hull, UK.
 <p>
 <strong><u>Academic Background</u></strong>
 <br>
-<b>MSc Computer Science for Games Development</b><br>
-Expected: 2:1 | Extended/Withdrew for high-value work opportunity.<br>
-[2017 – 2020]<br>
-University of Hull, Hull, UK.
-</p>
 <p>
 <b>BSc Computer Science with Games Development (with Foundation Year)</b><br>
 Result: First Class <br>
