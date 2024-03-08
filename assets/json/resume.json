@@ -17,13 +17,13 @@
       "name": "Prog. Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["C#", "C++", "Java", "JavaScript", "Python", "GDScript", "HTML/CSS", "Ruby"]
+      "keywords": ["C#", "C++", "Java", "JavaScript", "Python", "GDScript", "HTML/CSS", "Ruby", "Lua"]
     },
     {
       "name": "Tech. & Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, Photon2, winsock2), Physics (PhysX, Box2D, Jolt, Bullet)"]
+      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, Photon2, winsock2), Physics (PhysX, Box2D, Jolt, Bullet), GFX (DirectX11/12, OGL)"]
     },
     {
       "name": "Platforms",
@@ -90,7 +90,7 @@
       "url": "https://kjb88.github.io/",
       "startDate": "2011-03-01",
       "endDate": "2016-08-01",
-      "summary": "Designed and developed many solutions and supported other teams as a freelancer/contractor for a wide range of sectors, including: indie games studios, simulation companies and general C# .NET development roles.",
+      "summary": "Designed and developed many solutions and supported other teams as a freelancer/contractor for a wide range of sectors, including: indie games studios, simulation companies and general C# .NET and Java development roles.",
       "highlights": [
         "Worked closely with a wide array different companies of different sizes and SMEs.",
         "Produced value for businesses no matter their requirements or where I fit into their team (or lackthereof).",
