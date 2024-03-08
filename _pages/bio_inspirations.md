@@ -10,7 +10,7 @@
 <p>
     Okay, so I've definitely got to praise my friends or I'll never hear the end of the complaining! Now, I can't cover all of the hundreds of people I call my friends in some capacity, so I'll only go over the closest of the close and those who had the greatest impact on me. Over the decades, I've collected a large menagerie of varied individuals within the absurd and ridiculous 'Danger Zone' I call my various friendship circles.
 </p>
-    <p>
+<p>
     <strong>The Muse</strong>
     <br>
     First, I need to praise my fiancé of one and a bit years (at the time of writing!). She's been my rock throughout our time together and has helped me to not only understand who I really am underneath the layers of stress-mitigation armour and years of challenges, but to also help me grow as a person for my future. She is incredibly empathic, understanding and so very caring. But she's also incredibly talented and intuitive. A fine artist in her own right, despite her own challenges, she has always stoked my imagination and creativity, pushing me to be more innovative and unorthodox in my approaches to everything I do. She's also incredibly funny, which matches my happy-go-lucky and joking personality. She taught me how to fully enjoy and immerse myself in the things that make me happy and passionate. All of this comes together to define who I am now; a passionate and driven creative with an unshakeable momentum and an unstoppable force of technical aptitude and compassionate leadership.
