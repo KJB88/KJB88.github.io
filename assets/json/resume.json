@@ -22,13 +22,13 @@
     {
       "name": "Tech. & Libraries",
       "level": "Master",
-      "icon": "fa-solid fa-hashstag",
-      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, winsock2)"]
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, Photon2, winsock2), Physics (PhysX, Box2D, Jolt, Bullet)"]
     },
     {
       "name": "Platforms",
       "level": "Master",
-      "icon": "fa-solid fa-hashstag",
+      "icon": "fa-solid fa-hashtag",
       "keywords": ["Oculus Rift (VR)", "Android/iOS (AR, Mobile)", "HoloLens 1 (MR/XR)", "PC/Mac (Desktop)"]
     },
     {

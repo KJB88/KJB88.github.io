@@ -9,8 +9,9 @@ nav_order: 4
 social: true
 ---
 
+<div style= "text-align: center">
 Here is the direct link to my Github: <a href="https://github.com/KJB88">https://github.com/KJB88</a>!
-
+</div>
 ## Stats
 
 {% if site.data.repositories.github_users %}
