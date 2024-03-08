@@ -23,7 +23,7 @@
     <br>
     In my late twenties, I decided to give university life a shot. I'd tried everything else, may as well get into a few tens of thousand quid worth of debt. I hesitantly and anxiously applied for the BSc in Computer Science with Games Development at the University of Hull. And I was accepted! With a conditional of doing the Foundation Year. Works for me! I took to it like a duck to a dinner plate. I grew both academically and personally, I met great colleagues, friends and peers. I learned an incredible amount of knowledge and put in 150% wherever I could. It felt like I was born for programming and learning. I graduated with a First Class because of all the momentum and drive I had.
 </p>
-    <p>
+<p>
     I got my first real programming job here too! I worked in academia as a Unity developer for the Business School at the University of Hull. Another graduate and I worked on contracts and showcase pieces that the University felt would highlight their cutting-edge immersive tech. At that point it was the Oculus Rift, Microsoft HoloLens and things like Digital Twin simulation. Very cool stuff for a fresh grad to work on and very fast paced!
 </p>
 <p>
