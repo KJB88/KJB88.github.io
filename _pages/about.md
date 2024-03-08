@@ -30,7 +30,7 @@ social: true # includes social icons at the bottom of the page
 </p>
 <p>
   <strong><u>Skills</u></strong><br>
-  <b>Languages:</b> C#, C++, GDScript<br>
+  <b>Languages:</b> C#, C++, Java, JavaScript, Python, HTML/CSS, Ruby, GDScript<br>
   <b>Dev:</b> Unity, Godot<br>
   <b>IDEs:</b> Visual Studio 20xx/Code, Rider, XCode<br>
   <b>Platforms:</b> PC/Mac (Desktop), Android/iOS (AR), Oculus (VR), HoloLens (XR/MR)<br>
