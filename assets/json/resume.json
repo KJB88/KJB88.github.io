@@ -81,25 +81,22 @@
         "Worked on a wide range of technologies: VR/AR/XR",
         "Developed the precursor simulation that I was hired for in my next role."
       ]
+    },
+    {
+      "name": "Freelance Developer",
+      "position": "Freelance Unity & C# Developer",
+      "url": "https://kjb88.github.io/",
+      "startDate": "2010-03-01",
+      "endDate": "2017-08-01",
+      "summary": "Designed and developed many solutions and supported other teams as a freelancer/contractor for a wide range of sectors, including: indie games studios, simulation companies and general C# .NET development roles.",
+      "highlights": [
+        "Worked closely with a wide array different companies of different sizes and SMEs.",
+        "",
+        ""
+      ]
     }
   ],
   "education": [
-    {
-      "institution": "University of Hull",
-      "location": "Hull, UK.",
-      "url": "https://www.hull.ac.uk/",
-      "area": "Result: Expected First Class - Extended then Withdrew for High-Value Job",
-      "studyType": "MSc Computer Science for Games Development",
-      "startDate": "2017-09-01",
-      "endDate": "2020-05-01",
-      "courses": [
-        "Simulation & AI (Physically-based Simulation & Game AI)",
-        "Real-time Graphics (DirectX11, HLSL)",
-        "Advanced Rendering (Raytracing)",
-        "Virtual Environments (XR)",
-        "Games Architecture & Concurrency (C++ Threading, Networking, ECS game engine)"
-      ]
-    },
     {
       "institution": "University of Hull",
       "location": "Hull, UK.",
