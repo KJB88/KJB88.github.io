@@ -10,27 +10,26 @@
       "city": "Hull",
       "countryCode": "UK",
       "region": "East Riding of Yorkshire"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "skills": [
     {
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["C#", "C++", "Java", "JavaScript", "Python", "GDScript"]
+      "keywords": ["C#", "C++", "Java", "JavaScript", "Python", "GDScript", "HTML/CSS"]
     },
     {
-      "name": "Technologies & Platforms",
+      "name": "Technologies & Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashstag",
-      "keywords": ["Oculus (VR)", "Android/iOS (AR, Mobile)", "HoloLens 1 (MR/XR)", "CI/CD (Github Actions)", "Test-Driven (Unity Testing Framework, NUnit)"]
+      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, winsock2)"]
+    },
+    {
+      "name": "Platforms",
+      "level": "Master",
+      "icon": "fa-solid fa-hashstag",
+      "keywords": ["Oculus Rift (VR)", "Android/iOS (AR, Mobile)", "HoloLens 1 (MR/XR)", "PC/Mac (Desktop)"]
     },
     {
       "name": "Games Development",
@@ -39,16 +38,10 @@
       "keywords": ["Unity", "Godot", "Custom C++ ECS engine"]
     },
     {
-      "name": "Project Management",
+      "name": "Management & VC",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Azure DevOps", "JIRA", "Trello"]
-    },
-    {
-      "name": "Version Control",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Git (Github, Gitlab, Bitbucket, Azure DevOps)", "SVN (Tortoise)"]
+      "keywords": ["Azure DevOps", "JIRA", "Trello", "Git (via Github, Gitlab, Bitbucket, AzureDevOps, SourceTree)"]
     }
   ],
   "work": [
@@ -59,7 +52,10 @@
       "startDate": "2023-02-01",
       "endDate": "2024-01-17",
       "summary": "Technical development on a Fashion Game within a start-up environment. Worked closely with CTO to define high-level design decisions to meet business requirements. Mentorship and support of junior and mid-level developers.",
-      "highlights": ["Solo developed iOS Mobile prototype", "Direct business impact through inclusion in high-level business meetings"]
+      "highlights": [
+        "Solo developed iOS Mobile prototype", 
+        "Direct business impact through inclusion in high-level business meetings"
+      ]
     },
     {
       "name": "Siemens Gamesa Renewable Energy",
@@ -90,7 +86,7 @@
     },
     {
       "name": "Freelance Developer",
-      "position": "Freelance Unity & C# Developer",
+      "position": "Freelance Unity, C# & Java Developer",
       "url": "https://kjb88.github.io/",
       "startDate": "2011-03-01",
       "endDate": "2016-08-01",

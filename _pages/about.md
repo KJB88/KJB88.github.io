@@ -20,7 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p>
+<p> 
+  10+Yr Experience in C# & Unity <br>
   Mental Health & Disability Rights Advocate<br>
   Compassionate Technical Leader<br>
 </p>
@@ -29,22 +30,22 @@ social: true # includes social icons at the bottom of the page
 </p>
 <p>
   <strong><u>Skills</u></strong><br>
-  <b>Languages:</b> C# (9+yr), C++ (4yr), GDScript (<1y)<br>
-  <b>Dev:</b> Unity, OpenTK, MonoGame/XNA, Godot<br>
-  <b>IDEs:</b> Visual Studio 20xx/Code, Rider, Atom, MonoDevelop, XCode<br>
-  <b>Platforms:</b> PC/Mac, Android/iOS (AR), Oculus (VR), HoloLens (XR/MR)<br>
-  <b>Cloud:</b> Firebase, Unity Services (IAP, Analytics)<br>
+  <b>Languages:</b> C#, C++, GDScript<br>
+  <b>Dev:</b> Unity, Godot<br>
+  <b>IDEs:</b> Visual Studio 20xx/Code, Rider, XCode<br>
+  <b>Platforms:</b> PC/Mac (Desktop), Android/iOS (AR), Oculus (VR), HoloLens (XR/MR)<br>
+  <b>Cloud:</b> Firebase, Unity Services<br>
 </p>
 <p>
-  <b>Soft:</b> Technical Leadership/Hiring, Workflow impl / Content Pipeline impl, Mentoring, Client Relations<br>
-  <b>GIT/SVN:</b> Github, Gitlab, Bitbucket, SourceTree, Tortoise<br>
-  <b>Proj Mgmt:</b> JIRA (5+yr), DevOps/TFS (7yr), Trello (9+yr)<br>
+  <b>Soft:</b> Technical Leadership, Workflow impl., Content Pipeline impl., Mentoring, Client Relations<br>
+  <b>VC(Git):</b> Github, Gitlab, Bitbucket, SourceTree<br>
+  <b>Proj Mgmt:</b> JIRA, DevOps, Trello<br>
   <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
 </p>
 <p>
   <strong><u>Technical Profile</u></strong>
   <br>
-  I have 10 years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
+  I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
 </p>
 <p>
   <strong><u>Working Background</u></strong>
