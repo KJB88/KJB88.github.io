@@ -14,12 +14,11 @@ toc:
 <p>
   <h5>Introduction</h5>
     During (and after) the Honours stage of my undergraduate degree in Computer Science for Games Development, I spent just over 2 years within one of the business arms of the university called The Logistics Institute. This entity works closely with business clients to help develop for and improve ('revitalize') the Humber region through technology.
-  The main area of research and development was, of course, our thriving green Wind energy sector. It was here that I learned a lot about commercial development and producing meaningful value on short timeframes. I had my hands in most kinds of technologies relating to games here; VR/XR/AR/Desktop/Mobile.
+    The main area of research and development was, of course, our thriving green Wind energy sector. It was here that I learned a lot about commercial development and producing meaningful value on short timeframes. I had my hands in most kinds of technologies relating to games here; VR/XR/AR/Desktop.
 </p>
 <p>
-  <h5>The Project</h5>
-    So, the project was actually one of many that fell under my domain. But they were all short, quick prototype pieces and honestly, the lessons learned were uniform and
-  applicable across each project.
+  <h5>The Project(s)</h5>
+    So, the project was actually one of many that fell under my domain. But they were all short, quick prototype pieces and honestly, the lessons learned were uniform and applicable across each project. During my job role, I developed a VR prototype (targeted for Oculus Rift) to aid teaching train drivers. I developed (jointly with another developer) an XR/MR Warehouse Operative support system (targeted for Microsoft HoloLens 1) designed to optimize pathfinding routes while picking and provide a heads-up display checklist that would automatically tick off based on an in-built barcode scanning algorithm. A barcode scanning application for mobile platforms (initially targeted for Android) with a checklist system, similar to the HoloLens 1 project. I have also developed a top-down simulation of a production facility 
 </p>
 
 <p>
