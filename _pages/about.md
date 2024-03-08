@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p> 
-  10+Yr Experience in C# & Unity <br>
+  10+yr Experience in C# & Unity <br>
   Mental Health & Disability Rights Advocate<br>
   Compassionate Technical Leader<br>
 </p>
