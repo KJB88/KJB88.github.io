@@ -71,12 +71,10 @@ social: true # includes social icons at the bottom of the page
 </p>
 <p>
   <strong><u>Academic Background</u></strong>
-  <p>
   <b>BSc Computer Science with Games Development (with Foundation Year)</b><br>
   Result: First Class <br>
   [2013 – 2017] <br>
   University of Hull, Hull, UK.
-</p>
 <p>
   <strong><u>More Info</u></strong>
   <br>
