@@ -26,7 +26,6 @@ toc:
   <ul>
     <li>Develop solutions for clients & as showcase pieces on tight schedules.</li>
     <li>Self-manage project and clients with minimal support.</li>
-    <li>Worked closely with other.</li>
   </ul>
   <h5>Challenges</h5>
   <ul>
