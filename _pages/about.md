@@ -71,7 +71,6 @@ social: true # includes social icons at the bottom of the page
 </p>
 <p>
   <strong><u>Academic Background</u></strong>
-  <br>
   <p>
   <b>BSc Computer Science with Games Development (with Foundation Year)</b><br>
   Result: First Class <br>
