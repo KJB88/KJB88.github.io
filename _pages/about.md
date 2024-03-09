@@ -70,7 +70,7 @@ social: true # includes social icons at the bottom of the page
   Freelancer, Remote. Hull, UK.
 </p>
 <p>
-  <strong><u>Academic Background</u></strong>
+  <strong><u>Academic Background</u></strong><br>
   <b>BSc Computer Science with Games Development (with Foundation Year)</b><br>
   Result: First Class <br>
   [2013 – 2017] <br>
