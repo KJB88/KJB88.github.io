@@ -65,6 +65,11 @@ social: true # includes social icons at the bottom of the page
   The Logistics Institute, University of Hull, Hull, UK.
 </p>
 <p>
+  <b>Freelance C# / Java / Unity Developer</b><br>
+  [March 2011 - Sept 2016] <br>
+  Freelancer, Remote. Hull, UK.
+</p>
+<p>
   <strong><u>Academic Background</u></strong>
   <br>
   <p>
