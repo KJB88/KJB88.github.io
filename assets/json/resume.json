@@ -5,7 +5,7 @@
     "image": "",
     "email": "kevinbarr.business@gmail.com",
     "url": "https://www.linkedin.com/in/kevin-barr1988",
-    "summary": "~10 years experience in Games and Simulation development. Technical Leadership with a compassionate human-first approach. Advocate for: Mental Health Awareness & Disability Rights in the Workplace.",
+    "summary": "~10 years experience in Games and Simulation development. Technical Leadership with a compassionate human-first approach. Advocate for: Mental Health Awareness & Disability Rights.",
     "location": {
       "city": "Hull",
       "countryCode": "UK",
@@ -23,7 +23,7 @@
       "name": "Tech. & Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, Photon2, winsock2), Physics (PhysX, Box2D, Jolt, Bullet), Graphics (DirectX11/12, OpenGL)"]
+      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, Photon2, winsock2)", "Physics (PhysX, Box2D, Jolt, Bullet)", "Graphics (DirectX11/12, OpenGL)", "Web (Bootstrap)", "IDEs (VS20xx, VSCode, Rider, Atom, Eclipse)"]
     },
     {
       "name": "Platforms",
@@ -35,13 +35,13 @@
       "name": "Games Dev.",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Unity", "Godot", "Custom C++ ECS engine"]
+      "keywords": ["Unity (C#)", "Godot (C#, GDScript)", "Custom C++ ECS engine", "Lightweight Java Game Library (LWJGL)"]
     },
     {
       "name": "Management & VC",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Azure DevOps", "JIRA", "Trello", "Git (via Github, Gitlab, Bitbucket, AzureDevOps, SourceTree)"]
+      "keywords": ["Azure DevOps", "JIRA", "Trello", "Git (GUI + CLI)", "SVN (Tortoise)"]
     }
   ],
   "work": [
@@ -144,6 +144,7 @@
       "keywords": [
         "Comedy", 
         "Absurdism", 
+        "Surrealism",
         "Science Fiction", 
         "High Fantasy", 
         "Modern Era Parody"
@@ -153,8 +154,8 @@
       "name": "Hobbyist Programming",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "KBGD Library - a collection of useful games development classes",
-        "KJB88.github.io - this is where you are now!",
+        "GDLib - A small library of useful GD code I add to over time",
+        "KJB88.github.io - portfolio source code!",
         "A Game in a Day - A self-imposed challenge to develop a game in a day (usually ~8 hours)."
       ]
     },
