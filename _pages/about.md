@@ -37,7 +37,7 @@ social: true # includes social icons at the bottom of the page
   <b>Cloud:</b> Firebase, Unity Services<br>
 </p>
 <p>
-  <b>Soft:</b> Technical Leadership, Proj Mgmt, Tech Stack impl, Asset Pipeline impl, Mentoring, Client Relations<br>
+  <b>Soft:</b> Technical Leadership, Project Management, Tech Stack implementation, Asset Pipeline implementation, Mentoring, Client Relations<br>
   <b>VC(Git):</b> Github, Gitlab, Bitbucket, SourceTree<br>
   <b>Proj Mgmt:</b> JIRA, DevOps, Trello<br>
   <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
