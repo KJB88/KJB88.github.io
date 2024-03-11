@@ -30,12 +30,13 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "CI/CD (Github Actions)",
-        "Test-Driven (UnityTF, NUnit)",
+        "Test-Driven (UnityTF, NUnit, Parasoft)",
         "Networking (Mirror, Photon2, winsock2)",
         "Physics (PhysX, Box2D, Jolt, Bullet)",
         "Graphics (DirectX11/12, OpenGL)",
         "Web (Bootstrap, Jekyll)",
-        "IDEs (VS20xx, VSCode, Rider, Atom, Eclipse)"
+        "IDEs (VS20xx, VSCode, Rider, Atom, XCode, Eclipse)",
+        "Cloud (Firebase/Google, Unity Services, Steam)"
       ]
     },
     {
@@ -45,7 +46,7 @@
       "keywords": [
         "Oculus Rift (VR)",
         "Android/iOS (AR, Mobile)",
-        "HoloLens 1 (MR/XR)",
+        "Microsoft HoloLens 1 (MR/XR)",
         "PC/Mac (Desktop)",
         "Web (WebGL)"
       ]

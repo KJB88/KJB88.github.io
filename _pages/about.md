@@ -32,15 +32,19 @@ social: true # includes social icons at the bottom of the page
   <strong><u>Skills</u></strong><br>
   <b>Languages:</b> C#, C++, Java, JavaScript, Python, HTML/CSS, Ruby, GDScript<br>
   <b>Engine/Framework:</b> Unity, Godot, LWJGL, Bootstrap/Jekyll<br>
-  <b>IDEs:</b> Visual Studio 20xx/Code, Rider, XCode, Eclipse<br>
+  <b>IDEs:</b> Visual Studio 20xx/Code, Rider, XCode, Atom, Eclipse<br>
   <b>Platforms:</b> PC/Mac, Android/iOS, Oculus Rift, Microsoft HoloLens, WebGL<br>
-  <b>Cloud:</b> Firebase, Unity Services<br>
+  <b>Cloud:</b> Firebase/Google, Unity Services, Steam<br>
+  <b>Networking:</b> C++ winsock2, Photon 2, Mirror<br>
+  <b>Graphics:</b> DirectX11/HLSL, OpenGL/GLSL<br>
+  <b>Testing:</b> Unity Testing Framework, NUnit, Parasoft<br>
+  <b>CI/CD:</b> Github Actions<br>
 </p>
 <p>
   <b>Soft:</b> Technical Leadership, Project Management, Tech Stack implementation, Asset Pipeline implementation, Mentoring, Client Relations<br>
   <b>VC(Git):</b> Github, Gitlab, Bitbucket, SourceTree<br>
   <b>Proj Mgmt:</b> JIRA, DevOps, Trello<br>
-  <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
+  <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments, 
 </p>
 <p>
   <strong><u>Technical Profile</u></strong>
