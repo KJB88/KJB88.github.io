@@ -31,13 +31,13 @@ social: true # includes social icons at the bottom of the page
 <p>
   <strong><u>Skills</u></strong><br>
   <b>Languages:</b> C#, C++, Java, JavaScript, Python, HTML/CSS, Ruby, GDScript<br>
-  <b>Dev:</b> Unity, Godot<br>
-  <b>IDEs:</b> Visual Studio 20xx/Code, Rider, XCode<br>
-  <b>Platforms:</b> PC/Mac (Desktop), Android/iOS (AR), Oculus (VR), HoloLens (XR/MR)<br>
+  <b>Engine/Framework:</b> Unity, Godot, LWJGL, Bootstrap/Jekyll<br>
+  <b>IDEs:</b> Visual Studio 20xx/Code, Rider, XCode, Eclipse<br>
+  <b>Platforms:</b> PC/Mac, Android/iOS, Oculus Rift, Microsoft HoloLens, WebGL<br>
   <b>Cloud:</b> Firebase, Unity Services<br>
 </p>
 <p>
-  <b>Soft:</b> Technical Leadership, Workflow impl., Content Pipeline impl., Mentoring, Client Relations<br>
+  <b>Soft:</b> Technical Leadership, Proj Mgmt, Tech Stack impl, Asset Pipeline impl, Mentoring, Client Relations<br>
   <b>VC(Git):</b> Github, Gitlab, Bitbucket, SourceTree<br>
   <b>Proj Mgmt:</b> JIRA, DevOps, Trello<br>
   <b>Others:</b> Miro, Confluence, Blender, CAD (Inventor, PiXYZ), Stripe Payments
@@ -45,7 +45,7 @@ social: true # includes social icons at the bottom of the page
 <p>
   <strong><u>Technical Profile</u></strong>
   <br>
-  I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release.
+  I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
 </p>
 <p>
   <strong><u>Working Background</u></strong>
@@ -71,8 +71,11 @@ social: true # includes social icons at the bottom of the page
 </p>
 <p>
   <strong><u>Academic Background</u></strong><br>
-  <b>BSc Computer Science with Games Development (with Foundation Year)</b><br>
-  Result: First Class <br>
+  <b>MSc Computer Science with Games Development</b><br>
+  [2017 - 2019] <br>
+  University of Hull, Hull, UK.
+
+  <b>BSc Computer Science for Games Development (with Foundation Year)</b><br>
   [2013 – 2017] <br>
   University of Hull, Hull, UK.
 <p>

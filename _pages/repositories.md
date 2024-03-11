@@ -5,7 +5,7 @@ title: Repos
 description: It's where I keep my code and stuff. Well, just code actually. All of my work is stored on Github. Feel free to check my repos out! (The Github API can take a second to respond, so be patient!).
 url: https://github.com/KJB88
 nav: true
-nav_order: 4
+nav_order: 3
 social: true
 ---
 

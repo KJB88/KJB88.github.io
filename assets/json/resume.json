@@ -17,31 +17,61 @@
       "name": "Prog. Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Games (C#, C++, GDScript, Java, Lua)", "Web (JavaScript, HTML, CS, Ruby)", "Graphics (C#, C++, HLSL, GLSL)", "General (C#, C++, Java, Ruby, Python, Go)"]
+      "keywords": [
+        "Games (C#, C++, GDScript, Java, Lua)",
+        "Web (JavaScript, HTML, CSS, Ruby)",
+        "Graphics (HLSL, GLSL)",
+        "General (Python, Go)"
+      ]
     },
     {
       "name": "Tech. & Libraries",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["CI/CD (Github Actions)", "Test-Driven (UnityTF, NUnit)", "Networking (Mirror, Photon2, winsock2)", "Physics (PhysX, Box2D, Jolt, Bullet)", "Graphics (DirectX11/12, OpenGL)", "Web (Bootstrap, Jekyll)", "IDEs (VS20xx, VSCode, Rider, Atom, Eclipse)"]
+      "keywords": [
+        "CI/CD (Github Actions)",
+        "Test-Driven (UnityTF, NUnit)",
+        "Networking (Mirror, Photon2, winsock2)",
+        "Physics (PhysX, Box2D, Jolt, Bullet)",
+        "Graphics (DirectX11/12, OpenGL)",
+        "Web (Bootstrap, Jekyll)",
+        "IDEs (VS20xx, VSCode, Rider, Atom, Eclipse)"
+      ]
     },
     {
       "name": "Platforms",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Oculus Rift (VR)", "Android/iOS (AR, Mobile)", "HoloLens 1 (MR/XR)", "PC/Mac (Desktop)", "Web (WebGL)"]
+      "keywords": [
+        "Oculus Rift (VR)",
+        "Android/iOS (AR, Mobile)",
+        "HoloLens 1 (MR/XR)",
+        "PC/Mac (Desktop)",
+        "Web (WebGL)"
+      ]
     },
     {
       "name": "Games Dev.",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Unity (C#)", "Godot (C#, GDScript)", "My custom ECS engine (C++, HLSL)", "LWJGL (Java)"]
+      "keywords": [
+        "Unity (C#)",
+        "Godot (C#, GDScript)",
+        "My custom ECS engine (C++, HLSL)",
+        "LWJGL (Java)"
+      ]
     },
     {
-      "name": "Management & VC",
+      "name": "Proj. Mgmt. & VC",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Azure DevOps", "JIRA", "Trello", "Git (GUI + CLI)", "SVN (Tortoise)"]
+      "keywords": [
+        "Azure DevOps",
+        "JIRA",
+        "Trello",
+        "Git (GUI + CLI)",
+        "SVN (Tortoise)"
+      ]
     }
   ],
   "work": [
@@ -53,7 +83,7 @@
       "endDate": "2024-01-17",
       "summary": "Technical development on a Fashion Game within a start-up environment. Worked closely with CTO to define high-level design decisions to meet business requirements. Mentorship and support of junior and mid-level developers.",
       "highlights": [
-        "Solo developed iOS Mobile prototype", 
+        "Solo developed iOS Mobile prototype",
         "Direct business impact through inclusion in high-level business meetings"
       ]
     },
@@ -103,8 +133,22 @@
       "institution": "University of Hull",
       "location": "Hull, UK.",
       "url": "https://www.hull.ac.uk/",
-      "area": "Result: First Class",
-      "studyType": "BSc Computer Science with Games Development",
+      "studyType": "MSc Computer Science with Games Development",
+      "startDate": "2017-09-01",
+      "endDate": "2019-06-01",
+      "courses": [
+        "Games Engine Architecture (C++) & Networking and Concurrency (C++)",
+        "Artificial Intelligence (Python)",
+        "RTX Graphics (C++, HLSL) & Immersive Experiences AR/VR/XR (C#)",
+        "Games Simulation & Physics (C++)",
+        "Advanced Rendering (C++, HLSL)"
+      ]
+    },
+    {
+      "institution": "University of Hull",
+      "location": "Hull, UK.",
+      "url": "https://www.hull.ac.uk/",
+      "studyType": "BSc Computer Science for Games Development",
       "startDate": "2013-09-01",
       "endDate": "2017-06-01",
       "courses": [
@@ -142,13 +186,13 @@
       "name": "Creative Writing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Comedy", 
-        "Absurdism", 
+        "Comedy",
+        "Absurdism",
         "Surrealism",
-        "Science Fiction", 
-        "High Fantasy", 
+        "Science Fiction",
+        "High Fantasy",
         "Modern Era Parody"
-    ]
+      ]
     },
     {
       "name": "Hobbyist Programming",
@@ -162,7 +206,11 @@
     {
       "name": "Advocacy and Awareness",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Mental Health Awareness", "Disability Rights", "Compassionate Leadership"]
+      "keywords": [
+        "Mental Health Awareness",
+        "Disability Rights",
+        "Compassionate Leadership"
+      ]
     }
   ]
 }
