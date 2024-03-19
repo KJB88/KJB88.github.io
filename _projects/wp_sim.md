@@ -22,7 +22,6 @@ toc:
   <h5>The Project</h5>
     The Project itself was innovative and revolutionary for the company. It was to provide a whole-new interactive and visual way to visualize data. Using data pulled from various departments, specialist sensing hardware, factory PLCs and ground-crew reporting, the simulation would provide a top-level overview of a facility. The ability to tune down the scope to visualize elements at a micro level granted great freedom to decision makers on where, when and how processes could be optimised. This also allowed for predicting delays, sandboxing hypothetical contingencies and war-gaming unfavourable scenarios without impacting the site's output. All of this was done in Unity - a games development engine.
 </p>
-
 <p>
   <h5>Responsibilities</h5>
   <ul>
