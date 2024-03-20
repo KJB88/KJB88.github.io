@@ -42,6 +42,7 @@ social: true # includes social icons at the bottom of the page
   <h3>Skills</h3>
   <p>
     <h5>Unity Dev</h5>
+    <details open>
     <ul>
       <li><b>Languages</b>: C#, C++, GDScript, Java</li>
       <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
@@ -53,20 +54,24 @@ social: true # includes social icons at the bottom of the page
       <li><b>CI/CD</b>: Github Actions </li>
       <li><b>Cloud</b>: Firebase, Unity Services (IAP, Analytics), Steamworks</li>
     </ul>
+    </details>
   </p>
   <hr>
   <p>
     <h5>Web Dev</h5>
+    <details open>
     <ul>
       <li><b>Languages</b>: JavaScript, HTML, CSS</li>
       <li><b>Framework/Libs</b>: Bootstrap, Jekyll, JQuery</li>
       <li><b>IDEs</b>: Visual Studio Code, Atom</li>
       <li><b>Cloud</b>: Firebase</li>
     </ul>
+    </details>
   </p>
   <hr>
   <p>
     <h5>Common</h5>
+    <details open>
     <ul>
       <li><b>Languages</b>: Python, Ruby</li>
       <li><b>Soft</b>: Technical Leadership, Project Management (AGILE), Mentoring, Client Relations</li>
@@ -77,6 +82,7 @@ social: true # includes social icons at the bottom of the page
       <li><b>Modelling</b>: Blender, CAD (Inventor, PiXYZ)</li>
       <li><b>Other</b>: Miro, Stripe Payments</li>
     </ul>
+    </details>
   </p>
 </div>
 <hr>
@@ -105,6 +111,7 @@ social: true # includes social icons at the bottom of the page
     </li>
   </ul>
 </div>
+<hr>
 <div>
   <h3>Academic History</h3>
   <ul>
