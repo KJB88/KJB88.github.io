@@ -21,11 +21,13 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <div>
-  <p><em> 
-    10+yr Experience in C# & Unity <br>
-    Mental Health & Disability Rights Advocate<br>
-    Compassionate Technical Leader<br>
-  </p></em>
+  <p>
+    <em> 
+      10+yr Experience in C# & Unity <br>
+      Mental Health & Disability Rights Advocate<br>
+      Compassionate Technical Leader<br>
+    </em>
+  </p>
   <p>
     You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
   </p>
@@ -42,9 +44,9 @@ social: true # includes social icons at the bottom of the page
   <h3>Skills</h3>
   <p>
     <details open>
-      <summary>
+      <span><summary>
         <h5>Unity Development</h5>
-      </summary>
+      </summary></span>
       <ul>
         <li><b>Languages</b>: C#, C++, GDScript, Java</li>
         <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
