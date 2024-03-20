@@ -43,8 +43,8 @@ social: true # includes social icons at the bottom of the page
 <div>
   <h3>Skills</h3>
   <p>
-    <h5>Unity Development</h5>
     <details open>
+    <summary><b>Unity Development</b></summary>
       <ul>
         <li><b>Languages</b>: C#, C++, GDScript, Java</li>
         <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
@@ -60,8 +60,8 @@ social: true # includes social icons at the bottom of the page
   </p>
   <hr>
   <p>
-    <h5>Web Development</h5>
     <details open>
+    <summary><b>Web Development</b></summary>
     <ul>
       <li><b>Languages</b>: JavaScript, HTML, CSS</li>
       <li><b>Framework/Libs</b>: Bootstrap, Jekyll, JQuery</li>
@@ -72,8 +72,8 @@ social: true # includes social icons at the bottom of the page
   </p>
   <hr>
   <p>
-    <h5>Common</h5>
     <details open>
+    <summary><b>Common</b></summary>
     <ul>
       <li><b>Languages</b>: Python, Ruby</li>
       <li><b>Soft</b>: Technical Leadership, Project Management (AGILE), Mentoring, Client Relations</li>

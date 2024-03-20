@@ -50,8 +50,8 @@ toc:
   <h5>Challenges</h5>
   <ul>
     <li>No Management: Working as a student/graduate with no management direction.</li>
-    <li>No Management: Working as a student/graduate with no management direction.</li>
-    <li>No Management: Working as a student/graduate with no management direction.</li>
+    <li>Tight Deadlines: Deliverables fell under very tight deadlines due to contract bidding.</li>
+    <li>Learning Technologies: Learning new technologies quickly and effectively to produce strong value.</li>
   </ul>
   <h5>Actions</h5>
   <ul>
