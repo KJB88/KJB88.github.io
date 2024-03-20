@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Veteran Unity C# Developer
+subtitle: Senior Unity C# Developer
 nav_order: 1
 
 profile:
@@ -94,17 +94,17 @@ social: true # includes social icons at the bottom of the page
     <li>
       <b>Senior Unity Engineer</b><br>
       [Feb 2023 - Jan 2024]<br>
-      GN3RA, Remote Start-up Games Studio (UK).
+      GN3RA, Start-up Games Studio, Remote UK.
     </li>
     <li>
       <b>Technical Lead & Unity Digitalisation Specialist (Unity/C#)</b><br>
       [June 2020 - Feb 2023] <br>
-      Siemens Gamesa Renewable Energy, Hull, UK.
+      Siemens Gamesa Renewable Energy, On-site UK.
     </li>
     <li>
       <b>Unity C# Developer</b><br>
       [Aug 2017 - May 2020] <br>
-      The Logistics Institute, University of Hull, Hull, UK.
+      The Logistics Institute, University of Hull. On-site UK.
     </li>
     <li>
       <b>Freelance Developer (C# / Java / Unity)</b><br>
