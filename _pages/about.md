@@ -30,9 +30,11 @@ social: true # includes social icons at the bottom of the page
   You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
 </p>
 </div>
-<p>
-  <h2>Skills</h2>
-  <h3>Unity Dev</h3>
+<hr>
+<div>
+  <h5>Skills</h5>
+  <p>
+  <h6>Unity Dev</h6>
   <ul>
     <li><b>Languages</b>: C#, C++, GDScript, Java</li>
     <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
@@ -44,16 +46,20 @@ social: true # includes social icons at the bottom of the page
     <li><b>CI/CD</b>: Github Actions </li>
     <li><b>Cloud</b>: Firebase, Unity Services (IAP, Analytics), Steamworks</li>
   </ul>
+  </p>
   <hr>
-  <h3>Web Dev</h3>
+  <p>
+  <h6>Web Dev</h6>
   <ul>
     <li><b>Languages</b>: JavaScript, HTML, CSS</li>
     <li><b>Framework/Libs</b>: Bootstrap, Jekyll, JQuery</li>
     <li><b>IDEs</b>: Visual Studio Code, Atom</li>
     <li><b>Cloud</b>: Firebase</li>
   </ul>
+  </p>
   <hr>
-  <h3>Common</h3>
+  <p>
+  <h6>Common</h6>
   <ul>
     <li><b>Languages</b>: Python, Ruby</li>
     <li><b>Soft</b>: Technical Leadership, Project Management, Tech Stack implementation, Asset Pipeline implementation, Mentoring, Client Relations</li>
@@ -64,11 +70,15 @@ social: true # includes social icons at the bottom of the page
     <li><b>Other</b>: Miro, Stripe Payments</li>
   </ul>
 </p>
+</div>
+<div>
 <p>
   <strong><u>Technical Profile</u></strong>
   <br>
   I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
 </p>
+</div>
+<div>
 <p>
   <strong><u>Working Background</u></strong>
   <br>
@@ -102,6 +112,8 @@ social: true # includes social icons at the bottom of the page
   [2013 – 2017] <br>
   University of Hull, Hull, UK.
 </p>
+</div>
+<div>
 <p>
   <strong><u>More Info</u></strong>
   <br>
@@ -111,3 +123,4 @@ social: true # includes social icons at the bottom of the page
   <br>
   (You can also report errata on the website to me through my email if you're feeling helpful!).
 </p>
+<div>
