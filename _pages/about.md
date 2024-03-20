@@ -34,7 +34,6 @@ social: true # includes social icons at the bottom of the page
 <div>
   <p>
     <h3>Technical Profile</h3>
-    <br>
     I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
   </p>
 </div>
@@ -84,7 +83,6 @@ social: true # includes social icons at the bottom of the page
 <div>
   <p>
       <h3>Work History</h3>
-    <br>
     <b>Senior Unity Engineer</b> <br>
     [Feb 2023 - Jan 2024]<br>
     GN3RA, Remote Start-up Games Studio (UK).
@@ -100,12 +98,12 @@ social: true # includes social icons at the bottom of the page
     The Logistics Institute, University of Hull, Hull, UK.
   </p>
   <p>
-    <b>Freelance C# / Java / Unity Developer</b><br>
+    <b>Freelance Developer (C# / Java / Unity)</b><br>
     [March 2011 - Sept 2016] <br>
     Freelancer, Remote. Hull, UK.
   </p>
   <p>
-      <h3>Academic History</h3>
+    <h3>Academic History</h3>
     <b>MSc Computer Science with Games Development</b><br>
     [2017 - 2019] <br>
     University of Hull, Hull, UK.
@@ -120,7 +118,6 @@ social: true # includes social icons at the bottom of the page
 <div>
   <p>
       <h3>More Info</h3>
-    <br>
     For a more personal biography of me and my interests, please check out my <a href='/bio'>Personal Bio here</a>.
     <br>
     Below are my professional contact options. Please feel free to reach out for anything.
