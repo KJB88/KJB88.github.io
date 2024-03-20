@@ -44,9 +44,9 @@ social: true # includes social icons at the bottom of the page
   <h3>Skills</h3>
   <p>
     <details open>
-      <span><summary>
-        <h5>Unity Development</h5>
-      </summary></span>
+      <summary>
+        <h5 class="about">Unity Development</h5>
+      </summary>
       <ul>
         <li><b>Languages</b>: C#, C++, GDScript, Java</li>
         <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
