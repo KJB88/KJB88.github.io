@@ -32,9 +32,9 @@ social: true # includes social icons at the bottom of the page
 </div>
 <hr>
 <div>
-  <h5>Skills</h5>
+  <h3>Skills</h3>
   <p>
-  <h6>Unity Dev</h6>
+  <h5>Unity Dev</h5>
   <ul>
     <li><b>Languages</b>: C#, C++, GDScript, Java</li>
     <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
@@ -49,7 +49,7 @@ social: true # includes social icons at the bottom of the page
   </p>
   <hr>
   <p>
-  <h6>Web Dev</h6>
+  <h5>Web Dev</h5>
   <ul>
     <li><b>Languages</b>: JavaScript, HTML, CSS</li>
     <li><b>Framework/Libs</b>: Bootstrap, Jekyll, JQuery</li>
@@ -59,7 +59,7 @@ social: true # includes social icons at the bottom of the page
   </p>
   <hr>
   <p>
-  <h6>Common</h6>
+  <h5>Common</h5>
   <ul>
     <li><b>Languages</b>: Python, Ruby</li>
     <li><b>Soft</b>: Technical Leadership, Project Management, Tech Stack implementation, Asset Pipeline implementation, Mentoring, Client Relations</li>
