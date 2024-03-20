@@ -21,11 +21,11 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <div>
-  <p> 
+  <p><em> 
     10+yr Experience in C# & Unity <br>
     Mental Health & Disability Rights Advocate<br>
     Compassionate Technical Leader<br>
-  </p>
+  </p></em>
   <p>
     You can find my CV <a href="/cv">here</a> and my project repos <a href="/repositories">here</a>.
   </p>
@@ -33,7 +33,7 @@ social: true # includes social icons at the bottom of the page
 <hr>
 <div>
   <h3>Technical Profile</h3>
-  <p style="text-align:justify">
+  <p>
     I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
   </p>
 </div>
@@ -41,25 +41,29 @@ social: true # includes social icons at the bottom of the page
 <div>
   <h3>Skills</h3>
   <p>
-    <h5>Unity Dev</h5>
     <details open>
-    <ul>
-      <li><b>Languages</b>: C#, C++, GDScript, Java</li>
-      <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
-      <li><b>IDEs</b>: MonoDevelop, Visual Studio 20xx/Code, Rider, Eclipse</li>
-      <li><b>Build Platforms</b>: Desktop (PC/Mac), Mobile & AR (Android/iOS), VR (Oculus Rift), XR/MR (Microsoft HoloLens)</li>
-      <li><b>Graphics</b>: DirectX11/12 & HLSL, OpenGL3 & GLSL</li>
-      <li><b>Networking</b>: uNet, Mirror, Photon2, Netcode for GameObjects </li>
-      <li><b>Testing</b>: Unity Testing Framework</li>
-      <li><b>CI/CD</b>: Github Actions </li>
-      <li><b>Cloud</b>: Firebase, Unity Services (IAP, Analytics), Steamworks</li>
-    </ul>
+      <summary>
+        <h5>Unity Development</h5>
+      </summary>
+      <ul>
+        <li><b>Languages</b>: C#, C++, GDScript, Java</li>
+        <li><b>Engine/Framework</b>: Unity, Godot, Lightweight Java Game Library (LWJGL)</li>
+        <li><b>IDEs</b>: MonoDevelop, Visual Studio 20xx/Code, Rider, Eclipse</li>
+        <li><b>Build Platforms</b>: Desktop (PC/Mac), Mobile & AR (Android/iOS), VR (Oculus Rift), XR/MR (Microsoft HoloLens)</li>
+        <li><b>Graphics</b>: DirectX11/12 & HLSL, OpenGL3 & GLSL</li>
+        <li><b>Networking</b>: uNet, Mirror, Photon2, Netcode for GameObjects </li>
+        <li><b>Testing</b>: Unity Testing Framework</li>
+        <li><b>CI/CD</b>: Github Actions </li>
+        <li><b>Cloud</b>: Firebase, Unity Services (IAP, Analytics), Steamworks</li>
+      </ul>
     </details>
   </p>
   <hr>
   <p>
-    <h5>Web Dev</h5>
     <details open>
+    <summary>
+      <h5>Web Development</h5>
+    </summary>
     <ul>
       <li><b>Languages</b>: JavaScript, HTML, CSS</li>
       <li><b>Framework/Libs</b>: Bootstrap, Jekyll, JQuery</li>
@@ -70,8 +74,10 @@ social: true # includes social icons at the bottom of the page
   </p>
   <hr>
   <p>
-    <h5>Common</h5>
     <details open>
+    <summary>
+      <h5>Common</h5>
+    </summary>
     <ul>
       <li><b>Languages</b>: Python, Ruby</li>
       <li><b>Soft</b>: Technical Leadership, Project Management (AGILE), Mentoring, Client Relations</li>
