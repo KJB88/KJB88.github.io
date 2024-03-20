@@ -70,7 +70,7 @@ social: true # includes social icons at the bottom of the page
     <ul>
       <li><b>Languages</b>: Python, Ruby</li>
       <li><b>Soft</b>: Technical Leadership, Project Management (AGILE), Mentoring, Client Relations</li>
-      <li><b>Technical</b>: Tech Stack creation & implementation, Asset Pipeline design & implementation, Facilitation of Interdepartmental & (Ext.) Partner co-operation
+      <li><b>Technical</b>: Tech Stack creation & implementation, Asset Pipeline design & implementation, Facilitation of Interdepartmental & (Ext.) Partner co-operation</li>
       <li><b>VC (Git)</b>: Github, Gitlab, Bitbucket, SourceTree</li>
       <li><b>Proj. Mgmt.</b>: JIRA, Azure DevOps, Trello</li>
       <li><b>Documentation</b>: Confluence, GitBook</li>
@@ -82,7 +82,7 @@ social: true # includes social icons at the bottom of the page
 <hr>
 <div>
   <p>
-      <h3>Work History</h3>
+    <h3>Work History</h3>
     <b>Senior Unity Engineer</b> <br>
     [Feb 2023 - Jan 2024]<br>
     GN3RA, Remote Start-up Games Studio (UK).
