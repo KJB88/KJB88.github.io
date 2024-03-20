@@ -17,6 +17,7 @@ toc:
     During (and after) the Honours stage of my undergraduate degree in Computer Science for Games Development, I spent just over 2 years within one of the business arms of the university called The Logistics Institute. This entity works closely with business clients to help develop for and improve ('revitalize') the Humber region through technology. The main area of research and development was, of course, our thriving green Wind energy sector. It was here that I learned a lot about Extreme Programming and producing meaningful value on short timeframes. I had my hands in most kinds of technologies relating to games here; VR/XR/AR/Desktop.
 </p>
 </div>
+<hr>
 <div>
   <h5>The Project(s)</h5>
   <p>
@@ -24,7 +25,7 @@ toc:
   </p>
 </div>
 <div>
-  <h5>Factory Simulation (Desktop)</h5>
+  <h6>Factory Simulation (Desktop)</h6>
   <p>
     As a team of two developers, myself and my peer were tasked with developing a simulation for a client to help them assess risks and to optimize their pipeline after a renovation of their manufacturing facility. We used Unity and C# to develop, working ~20-30 hours a week alongside our studies.
   </p>
@@ -33,18 +34,18 @@ toc:
   </p>
 </div>
 <div>
-  <h5>Warehouse Pathfinder (XR)</h5>
+  <h6>Warehouse Pathfinder (XR)</h6>
   <p>
 
   </p>
 </div>
 <div>
-  <h5>Train Driver Instrumentation Trainer (VR)</h5>
+  <h6>Train Driver Instrumentation Trainer (VR)</h6>
   <p>
 
   </p>
 </div>
-
+<hr>
 <div>
   <h5>Responsibilities</h5>
   <ul>
@@ -79,6 +80,7 @@ toc:
     <li>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
     <h5>Retrospective</h5>
     <p>
