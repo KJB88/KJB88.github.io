@@ -57,7 +57,7 @@ social: true # includes social icons at the bottom of the page
         <li><b>Testing</b>: Unity Testing Framework</li>
         <li><b>CI/CD</b>: Github Actions </li>
         <li><b>Cloud</b>: Firebase, Unity Services (IAP, Analytics), Steamworks</li>
-      </ul>
+       </ul>
     </details>
   </p>
   <hr>
