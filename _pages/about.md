@@ -32,6 +32,14 @@ social: true # includes social icons at the bottom of the page
 </div>
 <hr>
 <div>
+  <p>
+    <h3>Technical Profile</h3>
+    <br>
+    I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
+  </p>
+</div>
+<hr>
+<div>
   <h3>Skills</h3>
   <p>
     <h5>Unity Dev</h5>
@@ -62,7 +70,8 @@ social: true # includes social icons at the bottom of the page
     <h5>Common</h5>
     <ul>
       <li><b>Languages</b>: Python, Ruby</li>
-      <li><b>Soft</b>: Technical Leadership, Project Management, Tech Stack implementation, Asset Pipeline implementation, Mentoring, Client Relations</li>
+      <li><b>Soft</b>: Technical Leadership, Project Management (AGILE), Mentoring, Client Relations</li>
+      <li><b>Technical</b>: Tech Stack creation & implementation, Asset Pipeline design & implementation, Facilitation of Interdepartmental & (Ext.) Partner co-operation
       <li><b>VC (Git)</b>: Github, Gitlab, Bitbucket, SourceTree</li>
       <li><b>Proj. Mgmt.</b>: JIRA, Azure DevOps, Trello</li>
       <li><b>Documentation</b>: Confluence, GitBook</li>
@@ -71,13 +80,7 @@ social: true # includes social icons at the bottom of the page
     </ul>
   </p>
 </div>
-<div>
-  <p>
-      <h3>Technical Profile</h3>
-    <br>
-    I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
-  </p>
-</div>
+<hr>
 <div>
   <p>
       <h3>Work History</h3>
@@ -113,6 +116,7 @@ social: true # includes social icons at the bottom of the page
     University of Hull, Hull, UK.
   </p>
 </div>
+<hr>
 <div>
   <p>
       <h3>More Info</h3>
