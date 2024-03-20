@@ -85,30 +85,24 @@ social: true # includes social icons at the bottom of the page
     <h3>Work History</h3>
     <b>Senior Unity Engineer</b><br>
     [Feb 2023 - Jan 2024]<br>
-    GN3RA, Remote Start-up Games Studio (UK).
-  </p>
-  <p>
+    GN3RA, Remote Start-up Games Studio (UK).<br>
     <b>Technical Lead & Unity Digitalisation Specialist (Unity/C#)</b><br>
     [June 2020 - Feb 2023] <br>
-    Siemens Gamesa Renewable Energy, Hull, UK.
-  </p>
-  <p>
+    Siemens Gamesa Renewable Energy, Hull, UK.<br>
     <b>Unity C# Developer</b><br>
     [Aug 2017 - May 2020] <br>
-    The Logistics Institute, University of Hull, Hull, UK.
-  </p>
-  <p>
+    The Logistics Institute, University of Hull, Hull, UK.<br>
     <b>Freelance Developer (C# / Java / Unity)</b><br>
     [March 2011 - Sept 2016] <br>
     Freelancer, Remote. Hull, UK.
   </p>
+</div>
+<div>
   <p>
     <h3>Academic History</h3>
     <b>MSc Computer Science with Games Development</b><br>
     [2017 - 2019] <br>
-    University of Hull, Hull, UK.
-  </p>
-  <p>
+    University of Hull, Hull, UK.<br>
     <b>BSc Computer Science for Games Development</b><br>
     [2013 – 2017] <br>
     University of Hull, Hull, UK.
