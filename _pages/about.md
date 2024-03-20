@@ -32,8 +32,8 @@ social: true # includes social icons at the bottom of the page
 </div>
 <hr>
 <div>
-  <p>
-    <h3>Technical Profile</h3>
+  <h3>Technical Profile</h3>
+  <p style="text-align:center">
     I have 10+ years of Unity C# development experience over a range of different sectors. I have developed immersive VR/XR experiences for academia, a digital twin simulation for a global manufacturing company and a fashion gaming experience and iOS companion app for a remote games start-up. I have pitched and designed a project from scratch. Then, after hiring and building a team including the supporting tech-stack, workflows and content pipelines; implemented, led, delivered and provided ongoing support post-release. Additionally, I have broad experience across many technologies and languages.
   </p>
 </div>
