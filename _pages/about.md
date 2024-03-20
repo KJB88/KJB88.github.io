@@ -83,7 +83,7 @@ social: true # includes social icons at the bottom of the page
 <div>
   <p>
     <h3>Work History</h3>
-    <b>Senior Unity Engineer</b> <br>
+    <b>Senior Unity Engineer</b><br>
     [Feb 2023 - Jan 2024]<br>
     GN3RA, Remote Start-up Games Studio (UK).
   </p>
