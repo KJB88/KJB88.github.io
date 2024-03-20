@@ -35,24 +35,28 @@ toc:
     <li>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Challenges</h5>
   <ul>
     <li>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Actions</h5>
   <ul>
     <li>"<b>Lorem</b> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Results</h5>
   <ul>
     <li>"<b>Lorem</b> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Achievements</h5>
   <ul>

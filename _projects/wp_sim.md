@@ -50,6 +50,7 @@ toc:
     <li>Facilitating a Co-operative approach between other business units/entities that have their own timelines.</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Actions</h5>
   <ul>
@@ -60,6 +61,7 @@ toc:
     <li><b>Partners:</b> Provided extreme flexibility to meet partners within their own schedules. Clearly and concisely communicated intention and expectations for the project and how we can develop an improved process. Reached out for feedback regularly on how the pipeline was performing.</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Results</h5>
   <ul>
@@ -70,6 +72,7 @@ toc:
     <li><b>Partners:</b> Partners enjoyed working with me. With their co-operation, was able to implement a strong and reliable pipeline for content and data, with reduced busywork/paperwork on their end. Their feedback helped to reach an optimal balance between departments.</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Achievements</h5>
   <ul>

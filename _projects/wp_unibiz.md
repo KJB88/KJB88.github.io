@@ -54,6 +54,7 @@ toc:
     <li>Work with one other graduate developer as part of a prototyping team.</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Challenges</h5>
   <ul>
@@ -62,18 +63,21 @@ toc:
     <li>Learning Technologies: Learning new technologies quickly and effectively to produce strong value.</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Actions</h5>
   <ul>
     <li>"<b>Lorem</b> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Results</h5>
   <ul>
     <li>"<b>Lorem</b> ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</li>
   </ul>
 </div>
+<hr>
 <div>
   <h5>Achievements</h5>
   <ul>
