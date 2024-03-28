@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🕸️ Personal Website 🕸️</h1>
+    <h1>💁 Personal Website 🕸💁</h1>
     <p>
         <a href="http://www.LinkedIn.com/in/kevin-barr1988">LinkedIn</a> |
         <a href="http://kjb88.github.io">Website</a> |
